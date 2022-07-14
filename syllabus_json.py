@@ -148,7 +148,6 @@ for language in Language:
             f,
             cls=SyllabusEncoder,
             separators=(",", ":"),
-            ensure_ascii=False,
         )
 
 driver.quit()

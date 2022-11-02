@@ -126,11 +126,9 @@ utils.wait_and_find(By.ID, "ctl00_bhHeader_lnkLogout")
 # 全シラバス取得・保存
 for language in Language:
     os.makedirs(f"./out/{language.value}/{year}", exist_ok=True)
-    all_syllabuses = {}
 
     for faculty in Faculty:
         syllabuses = get_syllabuses_by_faculty(utils, language, year, faculty)
-        all_syllabuses |= syllabuses
 
         with open(f"./out/{language.value}/{year}/{faculty.value[0]}.json", "w") as f:
             json.dump(
@@ -140,14 +138,5 @@ for language in Language:
                 indent=2,
                 ensure_ascii=False,
             )
-
-    # minifyしたJSONを保存
-    with open(f"./out/{language.value}/{year}/all.min.json", "w") as f:
-        json.dump(
-            all_syllabuses,
-            f,
-            cls=SyllabusEncoder,
-            separators=(",", ":"),
-        )
 
 driver.quit()

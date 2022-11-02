@@ -5444,7 +5444,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "上原 秀幸, 竹内　啓悟",
-    "room": "A-208"
+    "room": "A-311"
   },
   "B12530150": {
     "id": "B12530150",
@@ -6588,7 +6588,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "上原 秀幸, 竹内　啓悟",
-    "room": "A-208"
+    "room": "A-311"
   },
   "B13530160": {
     "id": "B13530160",
@@ -9825,6 +9825,19 @@
     "units": "0.5",
     "grade": "B4",
     "staff": "水谷　晃啓, 齊藤　大樹, 中澤 祥二, 三浦 均也, 東海林 孝幸, 島﨑　康弘, 井上 隆信, 松島 史朗, 杉木　直, 浅野　純一郎",
+    "room": null
+  },
+  "B15621040": {
+    "id": "B15621040",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2022&lct_cd=B15621040&je_cd=1",
+    "name": "建築設計論",
+    "area": "建築・都市専門Ⅱ",
+    "term": "後期",
+    "faculty": "工学部",
+    "required": "選必修",
+    "units": "2",
+    "grade": "B3",
+    "staff": "水谷　晃啓",
     "room": null
   }
 }

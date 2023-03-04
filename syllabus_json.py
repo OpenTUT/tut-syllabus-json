@@ -43,7 +43,7 @@ def get_syllabus(
         syllabus.name = utils.get_inner_text(
             By.ID, "ctl00_phContents_Detail_lbl_sbj_name_e"
         )
-        if syllabus.name[0] == "[":
+        if len(syllabus.name) > 0 and syllabus.name[0] == "[":
             syllabus.name = syllabus.name[1:-1]
         syllabus.staff = (
             utils.get_inner_text(By.ID, "ctl00_phContents_Detail_lbl_staff_name_e")

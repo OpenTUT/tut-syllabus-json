@@ -1,4 +1,4 @@
-import os, sys, json
+import os, sys, json, pathlib
 
 from classes import Language, Faculty, SyllabusEncoder
 
@@ -9,8 +9,15 @@ for language in Language:
     os.makedirs(f"./out/{language.value}/{year}", exist_ok=True)
     all_syllabuses = {}
 
-    for faculty in Faculty:
-        with open(f"./out/{language.value}/{year}/{faculty.value[0]}.json", "r") as f:
+    json_files = list(
+        filter(
+            lambda x: x.name != "all.min.json",
+            pathlib.Path(f"./out/{language.value}/{year}").glob("*.json"),
+        )
+    )
+
+    for json_file in json_files:
+        with open(json_file, "r") as f:
             all_syllabuses |= json.load(f)
 
     # minifyしたJSONを保存

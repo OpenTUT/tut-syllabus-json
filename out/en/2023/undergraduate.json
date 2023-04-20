@@ -608,7 +608,7 @@
     "units": "2",
     "grade": "B1, B2",
     "staff": "KAMAKURA Toshimitsu",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B10232080": {
     "id": "B10232080",
@@ -686,7 +686,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "HIYAGON Hitoshi",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B10233190": {
     "id": "B10233190",
@@ -3299,7 +3299,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASADA Sukekazu, UCHIDA Norio",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B1042503b": {
     "id": "B1042503b",
@@ -3312,7 +3312,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASADA Sukekazu, UCHIDA Norio",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B1042503c": {
     "id": "B1042503c",
@@ -3325,7 +3325,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASADA Sukekazu, UCHIDA Norio",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B1042503d": {
     "id": "B1042503d",
@@ -3338,7 +3338,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASADA Sukekazu, UCHIDA Norio",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B1042504a": {
     "id": "B1042504a",
@@ -5496,7 +5496,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "MURAKAMI Yoshinobu",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B12610110": {
     "id": "B12610110",
@@ -5587,7 +5587,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "TAKAHASHI Kazuhiro",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B12610180": {
     "id": "B12610180",
@@ -5652,7 +5652,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "NAKAMURA Yuichi",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B12610230": {
     "id": "B12610230",
@@ -6276,7 +6276,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "TAKAHASHI Kazuhiro",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B12630260": {
     "id": "B12630260",
@@ -6367,7 +6367,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "NAKAMURA Yuichi",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B12630330": {
     "id": "B12630330",
@@ -6406,7 +6406,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "MURAKAMI Yoshinobu",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B13510070": {
     "id": "B13510070",
@@ -6679,7 +6679,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAUCHI Shigeki",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B13610050": {
     "id": "B13610050",
@@ -6692,7 +6692,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KITAOKA Norihide",
-    "room": "A1-101"
+    "room": "B1-201"
   },
   "B13610070": {
     "id": "B13610070",
@@ -6705,7 +6705,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KAWABATA Akio",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B13610080": {
     "id": "B13610080",
@@ -7238,7 +7238,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MURAKOSHI Kazushi",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B13630360": {
     "id": "B13630360",
@@ -7420,7 +7420,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAUCHI Shigeki",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B13630470": {
     "id": "B13630470",
@@ -7459,7 +7459,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KAWABATA Akio",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B14513010": {
     "id": "B14513010",
@@ -8863,7 +8863,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAZAWA Shoji",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B15610050": {
     "id": "B15610050",
@@ -8876,7 +8876,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "SAITOH Taiki, MATSUI Tomoya",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B15610060": {
     "id": "B15610060",
@@ -9578,7 +9578,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAZAWA Shoji",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B15630150": {
     "id": "B15630150",
@@ -9591,7 +9591,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "SAITOH Taiki, MATSUI Tomoya",
-    "room": "B1-201_講義室"
+    "room": "B1-201"
   },
   "B15630160": {
     "id": "B15630160",

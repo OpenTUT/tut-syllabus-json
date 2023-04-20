@@ -7,7 +7,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.select import Select
 
-from classes import Language, Faculty, Syllabus, Utils, SyllabusEncoder
+from classes import Language, Faculty, Syllabus, SyllabusEncoder
+from utils import Utils
 
 
 def get_syllabus(

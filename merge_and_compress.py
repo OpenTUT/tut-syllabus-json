@@ -2,7 +2,7 @@ import os, sys, json, pathlib
 
 from classes import Language, Faculty, SyllabusEncoder
 
-year = sys.argv[1]
+year = "2023"
 
 # 全シラバス取得
 for language in Language:

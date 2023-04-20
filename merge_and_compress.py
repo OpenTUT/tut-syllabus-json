@@ -18,7 +18,7 @@ for language in Language:
 
     for json_file in json_files:
         with open(json_file, "r") as f:
-            all_syllabuses |= json.load(f)
+            all_syllabuses.update(json.load(f))
 
     # minifyしたJSONを保存
     with open(f"./out/{language.value}/{year}/all.min.json", "w") as f:

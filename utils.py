@@ -9,10 +9,10 @@ class Utils:
         self.driver = driver
         self.wait = wait
 
-    def wait_and_find(self, by: str, value: Any) -> WebElement:
+    def wait_and_find(self, by: str, value) -> WebElement:
         return self.wait.until(EC.presence_of_element_located((by, value)))
 
-    def get_inner_text(self, by: str, value: Any) -> Optional[str]:
+    def get_inner_text(self, by: str, value) -> str | None:
         try:
             return self.driver.find_element(by, value).text.strip()
         except:

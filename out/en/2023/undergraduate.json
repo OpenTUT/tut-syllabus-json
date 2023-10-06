@@ -22,7 +22,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B1",
-    "staff": "kyoumu iinkai iintyou, SAITO Yoshihiro, INOUE Takanobu, SHIBATA Takayuki, UCHIDA Hironaga, KITAZAKI Michiteru, MIZUSHIMA Takanori, SAITOH Taiki, SATO Kaiji, SAWADA Kazuaki, MINAMI Tetsuto, ICHITSUBO Makoto, KURIYAMA Shigeru, GOTO Hitoshi, YOSHIDA Sachiko, KAKIUCHI Yohei",
+    "staff": "kyoumu iinkai iintyou, SAITO Yoshihiro, INOUE Takanobu, SHIBATA Takayuki, UCHIDA Hironaga, KITAZAKI Michiteru, MIZUSHIMA Takanori, SAITOH Taiki, SATO Kaiji, SAWADA Kazuaki, MINAMI Tetsuto, ICHITSUBO Makoto, KURIYAMA Shigeru, KAKIUCHI Yohei, YOSHIDA Sachiko, GOTO Hitoshi",
     "room": "A-114"
   },
   "B1011001b": {
@@ -36,7 +36,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "kyoumu iinkai iintyou, INOUE Takanobu, SHIBATA Takayuki, SAWADA Kazuaki, KITAOKA Norihide, TERO Ryugo, SAITOH Taiki, NAKAMURA Yuji, UCHIDA Hironaga, SATO Yukinori, OGUCHI Tatsuo, ICHITSUBO Makoto, KURIYAMA Shigeru, GOTO Hitoshi, YOSHIDA Sachiko, KAKIUCHI Yohei",
-    "room": "A-201"
+    "room": "A-114"
   },
   "B10110020": {
     "id": "B10110020",
@@ -48,8 +48,8 @@
     "required": "Required",
     "units": "1",
     "grade": "B1",
-    "staff": "kyoumu iinkai fukuiintyou, MUTO Hiroyuki, UCHIYAMA Naoki, TAKAHASHI Junji, YASUI Toshiaki, YOKOYAMA Seiji, ISHIKAWA Yasuhiko, FUKUMURA Naohiro, WATANABE Kazuho, MATSUMOTO Akihiko, HARAGUCHI Naoki, ARAKAWA Yuki, SATOH Hirohisa, OHKITA Hironobu, TANAKA Terumichi, KURITA Hirofumi, MATSUI Tomoya, TOYODA Masaya, TAKIUCHI Yuji, TAJIMA Masaki, SHIMAZAKI Yasuhiro, TOKAIRIN Takayuki",
-    "room": "B1-103_物理実験室, B1-104_化学実験室"
+    "staff": "kyoumu iinkai fukuiintyou, MUTO Hiroyuki, UCHIYAMA Naoki, TAKAHASHI Junji, YASUI Toshiaki, YOKOYAMA Seiji, ISHIKAWA Yasuhiko, FUKUMURA Naohiro, WATANABE Kazuho, MATSUMOTO Akihiko, HARAGUCHI Naoki, SATOH Hirohisa, ARAKAWA Yuki, NAKAGAMI Koki, TANAKA Terumichi, KURITA Hirofumi, MATSUI Tomoya, TOYODA Masaya, TAKIUCHI Yuji, TAJIMA Masaki, SHIMAZAKI Yasuhiro, TOKAIRIN Takayuki",
+    "room": "A-114"
   },
   "B1011003a": {
     "id": "B1011003a",
@@ -139,7 +139,7 @@
     "required": "Required",
     "units": "3",
     "grade": "B1",
-    "staff": "IIDA Akiyoshi, YOSHINAGA Tsukasa",
+    "staff": "IIDA Akiyoshi",
     "room": "A-105"
   },
   "B1011005b": {
@@ -386,7 +386,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B1",
-    "staff": "YOKOYAMA Seiji, TAKIUCHI Yuji, OKAMOTO Shunya, NISHIKAWARA Masahito, YOSHINAGA Tsukasa, NAKADA Shotaro",
+    "staff": "YOKOYAMA Seiji, TAKIUCHI Yuji, OKAMOTO Shunya, NISHIKAWARA Masahito, NAKADA Shotaro",
     "room": "B1-103_物理実験室"
   },
   "B1013009b": {
@@ -452,7 +452,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "MUTO Hiroyuki, HIKIMA Kazuhiro, SATOH Hirohisa, FUJISAWA Ikuhide, NAKAGAMI Koki, ARAKAWA Yuki, TAN WAI KIAN",
-    "room": "B1-104_化学実験室"
+    "room": "A-105"
   },
   "B10130140": {
     "id": "B10130140",
@@ -1335,7 +1335,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "To be assigned",
+    "staff": "TSUCHIYA Toru, To be assigned",
     "room": "A-208"
   },
   "B10234310": {
@@ -1349,7 +1349,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "KAWAKITA Atsushi",
-    "room": "A1-201"
+    "room": null
   },
   "B10234320": {
     "id": "B10234320",
@@ -1362,7 +1362,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "KAWAKITA Atsushi",
-    "room": "A1-201"
+    "room": null
   },
   "B10234350": {
     "id": "B10234350",
@@ -1491,8 +1491,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B1",
-    "staff": "ISHIKAWA Chikako",
-    "room": "A-302"
+    "staff": "To be assigned",
+    "room": null
   },
   "B10235030": {
     "id": "B10235030",
@@ -1505,7 +1505,7 @@
     "units": "3.5",
     "grade": "B1",
     "staff": "MURAMATSU Yukiko, URANO Moyu, SUZUKI Yuko, ISHIKAWA Chikako",
-    "room": "A-303"
+    "room": null
   },
   "B10235040": {
     "id": "B10235040",
@@ -1518,7 +1518,7 @@
     "units": "2.5",
     "grade": "B1",
     "staff": "ISHIGE Junko, YOKOZAWA Tomoe, SUZUKI Yuko",
-    "room": "A-303"
+    "room": null
   },
   "B10235050": {
     "id": "B10235050",
@@ -1569,7 +1569,7 @@
     "required": "Elective",
     "units": "0.5",
     "grade": "B1",
-    "staff": "URANO Moyu",
+    "staff": "To be assigned",
     "room": "A-303"
   },
   "B10235090": {
@@ -1712,8 +1712,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B1",
-    "staff": "ISHIGE Junko, MURAMATSU Yukiko",
-    "room": "A-203"
+    "staff": "To be assigned",
+    "room": null
   },
   "B10235180": {
     "id": "B10235180",
@@ -1725,8 +1725,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B1",
-    "staff": "ISHIKAWA Chikako",
-    "room": "A-202"
+    "staff": "To be assigned",
+    "room": null
   },
   "B1033022a": {
     "id": "B1033022a",
@@ -2220,7 +2220,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ISHIGURO Hitomi",
-    "room": "A-109"
+    "room": "A-201"
   },
   "B1033027h": {
     "id": "B1033027h",
@@ -2233,7 +2233,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ISHIGURO Hitomi",
-    "room": "A-109"
+    "room": "A-201"
   },
   "B1033027i": {
     "id": "B1033027i",
@@ -3026,7 +3026,7 @@
     "units": "3.5",
     "grade": "B1",
     "staff": "MURAMATSU Yukiko, URANO Moyu, SUZUKI Yuko, ISHIKAWA Chikako",
-    "room": "A-303"
+    "room": null
   },
   "B10334020": {
     "id": "B10334020",
@@ -3039,7 +3039,7 @@
     "units": "2.5",
     "grade": "B1",
     "staff": "ISHIGE Junko, YOKOZAWA Tomoe, SUZUKI Yuko",
-    "room": "A-303"
+    "room": null
   },
   "B10334030": {
     "id": "B10334030",
@@ -3077,7 +3077,7 @@
     "required": "Elective",
     "units": "0.5",
     "grade": "B1",
-    "staff": "ISHIGE Junko",
+    "staff": "To be assigned",
     "room": "A-303"
   },
   "B10334060": {
@@ -3090,7 +3090,7 @@
     "required": "Elective",
     "units": "0.5",
     "grade": "B1",
-    "staff": "URANO Moyu",
+    "staff": "To be assigned",
     "room": "A-303"
   },
   "B10334070": {
@@ -3767,7 +3767,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "ISHIGE Junko, ISHIKAWA Chikako",
-    "room": "A-303"
+    "room": null
   },
   "B10437060": {
     "id": "B10437060",
@@ -3780,7 +3780,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "ISHIGE Junko, ISHIKAWA Chikako",
-    "room": "A-303"
+    "room": null
   },
   "B10437070": {
     "id": "B10437070",
@@ -3793,7 +3793,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "MURAMATSU Yukiko",
-    "room": "A-303"
+    "room": null
   },
   "B10437080": {
     "id": "B10437080",
@@ -3806,7 +3806,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "MURAMATSU Yukiko",
-    "room": "A-303"
+    "room": null
   },
   "B10437090": {
     "id": "B10437090",
@@ -3935,7 +3935,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B1",
-    "staff": "YAMADA Motohiro, KOBAYASHI Masakazu",
+    "staff": "KOBAYASHI Masakazu",
     "room": "A-106"
   },
   "B1052003b": {
@@ -3961,7 +3961,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B1",
-    "staff": "YAMADA Motohiro, KOBAYASHI Masakazu",
+    "staff": "KOBAYASHI Masakazu",
     "room": "A-106"
   },
   "B1052004a": {
@@ -4027,7 +4027,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "ABE Yohei, HIRUTA Toshiki",
-    "room": "D-202"
+    "room": "A-203"
   },
   "B11510070": {
     "id": "B11510070",
@@ -4039,7 +4039,7 @@
     "required": "Required",
     "units": "1",
     "grade": "B2",
-    "staff": "MATSUBARA Masami, TAJIRI Daiki",
+    "staff": "TAJIRI Daiki",
     "room": "実習工場"
   },
   "B11510080": {
@@ -4091,7 +4091,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B2",
-    "staff": "1kei kyomu Iin-S, SANO Shigenori, KHOO PEI LOON, YAMAZAKI Takuya, AKIZUKI Takuma, ADACHI Nozomu, KISHIMOTO Tatsunori, DOI Kentaro",
+    "staff": "1kei kyomu Iin-S, SANO Shigenori, KHOO PEI LOON, YAMAZAKI Takuya, AKIZUKI Takuma, ADACHI Nozomu, SEKISHITA Nobumasa, DOI Kentaro",
     "room": null
   },
   "B11510120": {
@@ -4325,8 +4325,8 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "1kei kyomu Iin-S",
-    "room": null
+    "staff": "KOBAYASHI Masakazu, MATSUOKA Tsuneyoshi, KISHIMOTO Tatsunori, MIURA Hiromi, ADACHI Nozomu, KHOO PEI LOON, ADACHI Tadaharu, ABE Yohei, TAJIRI Daiki, TODA Seitaro",
+    "room": "A-312"
   },
   "B11610023": {
     "id": "B11610023",
@@ -4338,8 +4338,8 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "1kei kyomu Iin-S",
-    "room": null
+    "staff": "KOBAYASHI Masakazu, YAMAZAKI Takuya, KISHIMOTO Tatsunori, MIURA Hiromi, ADACHI Nozomu, KHOO PEI LOON, ADACHI Tadaharu, ABE Yohei, TAJIRI Daiki, TODA Seitaro",
+    "room": "A-312"
   },
   "B11610070": {
     "id": "B11610070",
@@ -4390,7 +4390,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "TAKEICHI Yoshinori, AKIZUKI Takuma, TAKEDA Mizuki, TAJIRI Daiki",
+    "staff": "TAKEICHI Yoshinori, AKIZUKI Takuma, TAKEDA Mizuki, OBA Youjiro",
     "room": null
   },
   "B11610103": {
@@ -4533,7 +4533,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "TODAKA Yoshikazu, TAKAHASHI Junji, YAMADA Motohiro",
+    "staff": "TODAKA Yoshikazu, TAKAHASHI Junji",
     "room": "A-101"
   },
   "B11610170": {
@@ -5222,7 +5222,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "B3",
-    "staff": "TODAKA Yoshikazu, TAKAHASHI Junji, YAMADA Motohiro",
+    "staff": "TODAKA Yoshikazu, TAKAHASHI Junji",
     "room": "A-101"
   },
   "B12510080": {
@@ -5301,7 +5301,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "2kei kyomu Iin-S",
-    "room": null
+    "room": "A-209"
   },
   "B12510160": {
     "id": "B12510160",
@@ -5314,7 +5314,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "TAMURA Masaya",
-    "room": "A-205"
+    "room": "A-207"
   },
   "B12510170": {
     "id": "B12510170",
@@ -5600,7 +5600,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "TAKEUCHI Keigo",
-    "room": "A2-101"
+    "room": "A1-101"
   },
   "B12610190": {
     "id": "B12610190",
@@ -5885,20 +5885,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "TAKEUCHI Keigo, To be assigned",
-    "room": "A2-101"
-  },
-  "B12620330": {
-    "id": "B12620330",
-    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=B12620330&je_cd=1",
-    "name": "Inorganic Chemistry",
-    "area": "Electrical and Electronic Information Engineering II",
-    "term": "Spring term",
-    "faculty": "Undergraduate Program",
-    "required": "Required",
-    "units": "1.5",
-    "grade": "B3",
-    "staff": "MATSUDA Atsunori",
+    "staff": "TAKEUCHI Keigo, HAGA Nozomi",
     "room": "A2-101"
   },
   "B12620340": {
@@ -6211,7 +6198,7 @@
     "units": "2",
     "grade": "B4",
     "staff": "UCHIDA Hironaga",
-    "room": "A1-201"
+    "room": "A-209"
   },
   "B12630210": {
     "id": "B12630210",
@@ -6289,7 +6276,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "TAKEUCHI Keigo",
-    "room": "A2-101"
+    "room": "A1-101"
   },
   "B12630270": {
     "id": "B12630270",
@@ -6408,6 +6395,19 @@
     "staff": "MURAKAMI Yoshinobu",
     "room": "B1-201"
   },
+  "B12630360": {
+    "id": "B12630360",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=B12630360&je_cd=1",
+    "name": "Inorganic Chemistry",
+    "area": "Electrical and Electronic Information Engineering II",
+    "term": "Spring term",
+    "faculty": "Undergraduate Program",
+    "required": "Elective",
+    "units": "1.5",
+    "grade": "B3",
+    "staff": "MATSUDA Atsunori",
+    "room": "A2-101"
+  },
   "B13510070": {
     "id": "B13510070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=B13510070&je_cd=1",
@@ -6419,7 +6419,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "ISHIDA Yoshiteru",
-    "room": "F1-103"
+    "room": "A-202"
   },
   "B13510080": {
     "id": "B13510080",
@@ -6444,7 +6444,7 @@
     "required": "Required",
     "units": "1",
     "grade": "B2",
-    "staff": "3kei kyomu Iin-S, AIDA Shin, UEDA Sachiyo, HAYASHI Kotaro, HINE Kyoko",
+    "staff": "3kei kyomu Iin-S, AIDA Shin, UEDA Sachiyo, HAYASHI Kotaro, HINE Kyoko, NAKAI Takeshi",
     "room": "A-208"
   },
   "B13510100": {
@@ -6536,7 +6536,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "KURITA Noriyuki",
-    "room": "総研棟-606"
+    "room": "F1-103"
   },
   "B13530080": {
     "id": "B13530080",
@@ -6587,7 +6587,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "B2",
-    "staff": "To be assigned",
+    "staff": "UEHARA Kazumasa",
     "room": "A-207"
   },
   "B13530170": {
@@ -6652,7 +6652,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "B2",
-    "staff": "3kei kakukyouin, 3kei kyomu Iin-S",
+    "staff": "3kei kyomu Iin-S, KITAZAKI Michiteru, FUJITO Toshihiro, UMEMURA Kyoji, SUZUKI Koutarou, MIURA Jun, KURITA Noriyuki, SUGAYA Yasuyuki, FUKUMURA Naohiro, MURAKOSHI Kazushi, KAWAI Kazuhisa, TOYONAGA Kenji, NAKAMURA Junya, IKABATA Yasuhiro, OSHIMA Naoki, To be assigned",
     "room": "A-209"
   },
   "B13610030": {
@@ -6692,7 +6692,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KITAOKA Norihide",
-    "room": "B1-201"
+    "room": "A1-101"
   },
   "B13610070": {
     "id": "B13610070",
@@ -7862,7 +7862,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "SAITO Yoshihiro",
-    "room": "A1-201"
+    "room": "A-312"
   },
   "B14613050": {
     "id": "B14613050",
@@ -8005,7 +8005,7 @@
     "units": "4",
     "grade": "B3",
     "staff": "4kei kyomu Iin-S, 4kei kakukyouin",
-    "room": "B1-104_化学実験室"
+    "room": "B1-104_化学実験室, A1-301"
   },
   "B14613170": {
     "id": "B14613170",
@@ -8186,7 +8186,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "To be assigned, 4kei kyomu Iin-S",
+    "staff": "HARAGUCHI Naoki, 4kei kyomu Iin-S",
     "room": "A1-201"
   },
   "B14623070": {
@@ -8434,7 +8434,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "SAITO Yoshihiro",
-    "room": "A1-201"
+    "room": "A-312"
   },
   "B14633200": {
     "id": "B14633200",
@@ -8654,7 +8654,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B1",
-    "staff": "MIZUTANI Akihiro",
+    "staff": "MIZUTANI Akihiro, PARK Minjeong",
     "room": "D1-501"
   },
   "B15510140": {
@@ -8785,7 +8785,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "MATSUDA Tatsuya, SHIMAZAKI Yasuhiro, MATSUI Tomoya, MIURA Kinya, NAITO Naoto, KATO Shigeru, YOKOTA Kuriko, INOUE Takanobu, TAJIMA Masaki, NAKADA Shotaro, NGUYEN MINH NGOC, TOYODA Masaya",
-    "room": null
+    "room": "A-208"
   },
   "B15510250": {
     "id": "B15510250",
@@ -9070,7 +9070,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "SUGIKI Nao",
+    "staff": "SUGIKI Nao, EGUCHI Yukio",
     "room": "A1-201"
   },
   "B15620100": {
@@ -9252,7 +9252,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "MIZUTANI Akihiro, MATSUSHIMA Shiro, To be assigned",
+    "staff": "MIZUTANI Akihiro, KIKUCHI Makoto",
     "room": "A-105"
   },
   "B15621050": {
@@ -9304,7 +9304,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "MATSUSHIMA Shiro, MIZUTANI Akihiro, TAKIUCHI Yuji, ITO Keisuke, INOUE Takahiro",
+    "staff": "MIZUTANI Akihiro, TAKIUCHI Yuji, ITO Keisuke, INOUE Takahiro, PARK Minjeong",
     "room": "D1-502"
   },
   "B15621100": {
@@ -9356,7 +9356,7 @@
     "required": "Required",
     "units": "1",
     "grade": "B3",
-    "staff": "MIZUTANI Akihiro",
+    "staff": "MIZUTANI Akihiro, PARK Minjeong",
     "room": "D1-502"
   },
   "B15621150": {
@@ -9382,7 +9382,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B4",
-    "staff": "MATSUSHIMA Shiro, ASANO Junichiro, MIZUTANI Akihiro, ONO Haruka, TSUBOI Shiro",
+    "staff": "MIZUTANI Akihiro, ASANO Junichiro, ONO Haruka, TSUBOI Shiro, PARK Minjeong",
     "room": null
   },
   "B15622010": {
@@ -9645,6 +9645,19 @@
     "staff": "NOGUCHI Takeru",
     "room": "A-312"
   },
+  "G10731520": {
+    "id": "G10731520",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=G10731520&je_cd=1",
+    "name": "Culture and Commnuication 1",
+    "area": "Humanities",
+    "term": "Fall term",
+    "faculty": "Undergraduate Program",
+    "required": "Elective",
+    "units": "2",
+    "grade": "B3",
+    "staff": "RYAN Eugene",
+    "room": "A-207"
+  },
   "S10234390": {
     "id": "S10234390",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=S10234390&je_cd=1",
@@ -9708,7 +9721,7 @@
     "units": "1",
     "grade": "B4",
     "staff": "OTOTAKE Yoshihiko, SAKAI Eiji, KURATA Kazuo",
-    "room": null
+    "room": "A-114"
   },
   "S12620400": {
     "id": "S12620400",
@@ -9721,7 +9734,7 @@
     "units": "1",
     "grade": "B4",
     "staff": "ISHII Hiromu",
-    "room": null
+    "room": "A-114"
   },
   "S14613150": {
     "id": "S14613150",
@@ -9734,7 +9747,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "EKI Toshihiko, OGUCHI Tatsuo, HARAGUCHI Naoki",
-    "room": null
+    "room": "A2-101"
   },
   "S14613270": {
     "id": "S14613270",
@@ -9746,8 +9759,8 @@
     "required": "Required",
     "units": "1",
     "grade": "B3",
-    "staff": "YOSHIDA Sachiko, EKI Toshihiko, To be assigned",
-    "room": null
+    "staff": "YOSHIDA Sachiko, EKI Toshihiko, IIJIMA Yoshihiko",
+    "room": "A2-101"
   },
   "S14623060": {
     "id": "S14623060",
@@ -9759,7 +9772,7 @@
     "required": "Required",
     "units": "1",
     "grade": "B3",
-    "staff": "4kei kyomu Iin-S, ARIGA Katsuhiko, To be assigned, To be assigned, MATSUOKA Shinichi",
+    "staff": "4kei kyomu Iin-S, ARIGA Katsuhiko, HORI Akihiro, To be assigned, MATSUOKA Shinichi",
     "room": "A1-101"
   },
   "S14623120": {
@@ -9785,8 +9798,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "4kei kyomu Iin-S",
-    "room": null
+    "staff": "DAIMON Hiroyuki, ARIYOSHI Seiichiro, NAKANO Hiromi, TANAKA Saburo",
+    "room": "A2-201"
   },
   "S14633120": {
     "id": "S14633120",
@@ -9798,8 +9811,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "4kei kyomu Iin-S",
-    "room": null
+    "staff": "YOSHIDA Sachiko, NUMANO Rika, NAKABACHI Atsushi",
+    "room": "A2-101"
   },
   "S14633300": {
     "id": "S14633300",
@@ -9838,7 +9851,7 @@
     "units": "2",
     "grade": "B4",
     "staff": "IMAMURA Yoichi",
-    "room": null
+    "room": "A-209"
   },
   "S15621130": {
     "id": "S15621130",
@@ -9850,8 +9863,8 @@
     "required": "Required",
     "units": "2",
     "grade": "B4",
-    "staff": "ASANO Junichiro, To be assigned, To be assigned, To be assigned, To be assigned, To be assigned, To be assigned, To be assigned, To be assigned",
-    "room": null
+    "staff": "ASANO Junichiro, NAKANO Masahiro, TOMIYASU Wataru, URAKAWA takahisa, OGAWA Tetsushi, BAN Nobuo, YAMADA Akira, HANAI Takayoshi, ISHIHARA Kouji, YASUI Hisakazu",
+    "room": "A-114"
   },
   "S15630190": {
     "id": "S15630190",

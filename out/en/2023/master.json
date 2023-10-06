@@ -348,7 +348,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAWAKITA Atsushi",
-    "room": "A1-201"
+    "room": null
   },
   "M20230300": {
     "id": "M20230300",
@@ -373,7 +373,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1",
-    "staff": "To be assigned",
+    "staff": "TSUCHIYA Toru, To be assigned",
     "room": "A-208"
   },
   "M20230320": {
@@ -387,7 +387,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAWAKITA Atsushi",
-    "room": "A1-201"
+    "room": null
   },
   "M20230330": {
     "id": "M20230330",
@@ -400,7 +400,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAWAKITA Atsushi",
-    "room": "A1-201"
+    "room": null
   },
   "M20230380": {
     "id": "M20230380",
@@ -1013,6 +1013,19 @@
     "staff": "TAKAYAMA Kotaro",
     "room": "A1-201"
   },
+  "M21620080": {
+    "id": "M21620080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M21620080&je_cd=1",
+    "name": "Advanced System Optimization",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "TAKAHASHI Junji",
+    "room": "A2-201"
+  },
   "M21621080": {
     "id": "M21621080",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M21621080&je_cd=1",
@@ -1023,7 +1036,7 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "MATSUBARA Masami",
+    "staff": "KAWAMURA Shozo",
     "room": "A2-201"
   },
   "M21621100": {
@@ -1473,7 +1486,7 @@
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M22620070&je_cd=1",
     "name": "Magnetics",
     "area": "Advanced Electrical and Electronic Information Engineering",
-    "term": "Spring2 term",
+    "term": "Fall1 term",
     "faculty": "Graduate Program for Master's Degree",
     "required": "Required",
     "units": "1",
@@ -1608,7 +1621,7 @@
     "required": "Required",
     "units": "2",
     "grade": "M1",
-    "staff": "YAMANE Keisuke",
+    "staff": "YAMANE Keisuke, CHOI YONG JOON",
     "room": "A2-201"
   },
   "M22623030": {
@@ -1790,7 +1803,7 @@
     "required": "Required",
     "units": "1",
     "grade": "M2",
-    "staff": "To be assigned",
+    "staff": "MICHELE Dall'Arno",
     "room": "A-108"
   },
   "M23610080": {
@@ -2206,7 +2219,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1, M2",
-    "staff": "To be assigned",
+    "staff": "MICHELE Dall'Arno",
     "room": "A-108"
   },
   "M24613010": {
@@ -2687,7 +2700,7 @@
     "required": "Required",
     "units": "2",
     "grade": "M1",
-    "staff": "MATSUSHIMA Shiro, MIZUTANI Akihiro",
+    "staff": "MIZUTANI Akihiro",
     "room": "D2-704"
   },
   "M25621050": {
@@ -2726,7 +2739,7 @@
     "required": "Required",
     "units": "2",
     "grade": "M1",
-    "staff": "MATSUSHIMA Shiro, MIZUTANI Akihiro",
+    "staff": "MIZUTANI Akihiro",
     "room": "D2-704"
   },
   "M25621160": {
@@ -2859,6 +2872,19 @@
     "staff": "5kei kyomu Iin-S",
     "room": null
   },
+  "M40030030": {
+    "id": "M40030030",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M40030030&je_cd=1",
+    "name": "Culture and Communication I",
+    "area": "General courses",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": null,
+    "staff": "RYAN Eugene",
+    "room": "A-207"
+  },
   "M40030050": {
     "id": "M40030050",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M40030050&je_cd=1",
@@ -2885,6 +2911,201 @@
     "staff": "MURAMATSU Yukiko",
     "room": "A-203"
   },
+  "M40030090": {
+    "id": "M40030090",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M40030090&je_cd=1",
+    "name": "Principles of Japanese Grammar",
+    "area": "General courses",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "ISHIGE Junko",
+    "room": "A-303"
+  },
+  "M40030110": {
+    "id": "M40030110",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M40030110&je_cd=1",
+    "name": "Japanese Communication Theory",
+    "area": "General courses",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "2",
+    "grade": "M2",
+    "staff": "ISHIKAWA Chikako",
+    "room": "A-109"
+  },
+  "M4011002a": {
+    "id": "M4011002a",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4011002a&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "General courses",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "1kei kyomu Iin-S, kyoumu iinkai fukuiintyou, TANAKA Saburo, TSUCHIYA Toru",
+    "room": null
+  },
+  "M4011002b": {
+    "id": "M4011002b",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4011002b&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "General courses",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "2kei kyomu Iin-S, kyoumu iinkai fukuiintyou, TANAKA Saburo, TSUCHIYA Toru",
+    "room": null
+  },
+  "M4011002c": {
+    "id": "M4011002c",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4011002c&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "General courses",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "3kei kyomu Iin-S, kyoumu iinkai fukuiintyou, TANAKA Saburo, TSUCHIYA Toru",
+    "room": null
+  },
+  "M4011002d": {
+    "id": "M4011002d",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4011002d&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "General courses",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "4kei kyomu Iin-S, kyoumu iinkai fukuiintyou, TANAKA Saburo, TSUCHIYA Toru",
+    "room": null
+  },
+  "M4011002e": {
+    "id": "M4011002e",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4011002e&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "General courses",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "5kei kyomu Iin-S, kyoumu iinkai fukuiintyou, TANAKA Saburo, TSUCHIYA Toru",
+    "room": null
+  },
+  "M41610010": {
+    "id": "M41610010",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41610010&je_cd=1",
+    "name": "Seminar on Mechanical Engineering I",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "4",
+    "grade": "M1",
+    "staff": "1kei kyomu Iin-S",
+    "room": null
+  },
+  "M41610020": {
+    "id": "M41610020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41610020&je_cd=1",
+    "name": "Seminar on Mechanical Engineering II",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "2",
+    "grade": "M2",
+    "staff": "1kei kyomu Iin-S",
+    "room": null
+  },
+  "M41610030": {
+    "id": "M41610030",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41610030&je_cd=1",
+    "name": "Thesis Research on Mechanical Engineering",
+    "area": "Advanced Mechanical Engineering",
+    "term": "2Years",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M1, M2",
+    "staff": "1kei kyomu Iin-S, 1kei kakukyouin",
+    "room": null
+  },
+  "M4161003T": {
+    "id": "M4161003T",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4161003T&je_cd=1",
+    "name": "Thesis Research on Mechanical Engineering",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "1kei kyomu Iin-S, 1kei kakukyouin",
+    "room": null
+  },
+  "M41610040": {
+    "id": "M41610040",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41610040&je_cd=1",
+    "name": "Seminar on Mechanical Engineering",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "1kei kyomu Iin-S",
+    "room": null
+  },
+  "M41610050": {
+    "id": "M41610050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41610050&je_cd=1",
+    "name": "Internship",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "0",
+    "grade": "M2",
+    "staff": "1kei kyomu Iin-S",
+    "room": null
+  },
+  "M41610070": {
+    "id": "M41610070",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41610070&je_cd=1",
+    "name": "Data Science Exercise",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "NAGAI Moeto, NAKAMURA Yuji",
+    "room": null
+  },
+  "M41610080": {
+    "id": "M41610080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41610080&je_cd=1",
+    "name": "Advanced Data Science Exercise",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "NAGAI Moeto, NAKAMURA Yuji",
+    "room": null
+  },
   "M41630030": {
     "id": "M41630030",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630030&je_cd=1",
@@ -2898,17 +3119,43 @@
     "staff": "ADACHI Tadaharu",
     "room": "D-313"
   },
-  "M41630220": {
-    "id": "M41630220",
-    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630220&je_cd=1",
-    "name": "Advanced Mechanical Systems Design II",
+  "M41630040": {
+    "id": "M41630040",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630040&je_cd=1",
+    "name": "Micromachining Engineering",
     "area": "Advanced Mechanical Engineering",
-    "term": "Spring term",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "SHIBATA Takayuki",
+    "room": "D-617"
+  },
+  "M41630210": {
+    "id": "M41630210",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630210&je_cd=1",
+    "name": "Advanced Mechanical Systems Design I",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall term",
     "faculty": "Graduate Program for Master's Degree",
     "required": "Elective",
     "units": "2",
     "grade": "M1",
-    "staff": "1kei kyomu Iin-S, SHIBATA Takayuki, NAGAI Moeto, KAWAMURA Shozo, MATSUBARA Masami, ADACHI Tadaharu, TAKEICHI Yoshinori, ABE Yohei",
+    "staff": "1kei kyomu Iin-S, SHIBATA Takayuki, NAGAI Moeto, KAWAMURA Shozo, ADACHI Tadaharu, TAKEICHI Yoshinori, ABE Yohei",
+    "room": null
+  },
+  "M41630230": {
+    "id": "M41630230",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630230&je_cd=1",
+    "name": "Advanced Materials and Manufacturing Process I",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "1kei kyomu Iin-S, TODAKA Yoshikazu, MIURA Hiromi, KOBAYASHI Masakazu, YOKOYAMA Seiji, YASUI Toshiaki, ADACHI Nozomu, OBA Youjiro",
     "room": null
   },
   "M41630240": {
@@ -2924,6 +3171,19 @@
     "staff": "1kei kyomu Iin-S, TODAKA Yoshikazu, MIURA Hiromi, KOBAYASHI Masakazu, YOKOYAMA Seiji, YASUI Toshiaki",
     "room": null
   },
+  "M41630250": {
+    "id": "M41630250",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630250&je_cd=1",
+    "name": "Advanced System, Control and Robotics I",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "1kei kyomu Iin-S, SATO Kaiji, SANO Shigenori, TAKAYAMA Kotaro, UCHIYAMA Naoki, TAKAGI Kentaro, TAKAHASHI Junji",
+    "room": null
+  },
   "M41630260": {
     "id": "M41630260",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630260&je_cd=1",
@@ -2935,6 +3195,19 @@
     "units": "2",
     "grade": "M1",
     "staff": "1kei kyomu Iin-S, SATO Kaiji, SANO Shigenori, TAKAYAMA Kotaro, UCHIYAMA Naoki, TAKAGI Kentaro, TAKAHASHI Junji",
+    "room": null
+  },
+  "M41630270": {
+    "id": "M41630270",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630270&je_cd=1",
+    "name": "Advanced Energy and Environmental Engineering I",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "1kei kyomu Iin-S, NAKAMURA Yuji, MATSUOKA Tsuneyoshi, DOI Kentaro, SUZUKI Takashi, IIDA Akiyoshi, SEKISHITA Nobumasa, YOKOYAMA Hiroshi",
     "room": null
   },
   "M41630280": {
@@ -2949,6 +3222,32 @@
     "grade": "M1",
     "staff": "1kei kyomu Iin-S, NAKAMURA Yuji, MATSUOKA Tsuneyoshi, DOI Kentaro, SUZUKI Takashi, IIDA Akiyoshi, SEKISHITA Nobumasa, YOKOYAMA Hiroshi",
     "room": null
+  },
+  "M41630330": {
+    "id": "M41630330",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630330&je_cd=1",
+    "name": "Advances in Mechanical Design",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall2+Spring1",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M2",
+    "staff": "KAWAMURA Shozo, SHIBATA Takayuki",
+    "room": "D-617"
+  },
+  "M41630380": {
+    "id": "M41630380",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630380&je_cd=1",
+    "name": "Robotics",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M2",
+    "staff": "UCHIYAMA Naoki",
+    "room": "D-412"
   },
   "M41630430": {
     "id": "M41630430",
@@ -2989,6 +3288,136 @@
     "staff": "SATO Kaiji, UCHIYAMA Naoki",
     "room": "D-412"
   },
+  "M41630463": {
+    "id": "M41630463",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630463&je_cd=1",
+    "name": "Advances in Systems, Control and Robotics",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall2+Spring",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M2",
+    "staff": "TAKAGI Kentaro, TAKAYAMA Kotaro",
+    "room": "D-511"
+  },
+  "M41630470": {
+    "id": "M41630470",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630470&je_cd=1",
+    "name": "Microstructural Control of Metallic Materials",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "MIURA Hiromi",
+    "room": "D-511"
+  },
+  "M41630480": {
+    "id": "M41630480",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630480&je_cd=1",
+    "name": "Combustion Theory",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "NAKAMURA Yuji",
+    "room": "D-313"
+  },
+  "M41630490": {
+    "id": "M41630490",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M41630490&je_cd=1",
+    "name": "Modern Control Engineering",
+    "area": "Advanced Mechanical Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "TAKAGI Kentaro",
+    "room": "D-511"
+  },
+  "M42610020": {
+    "id": "M42610020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42610020&je_cd=1",
+    "name": "Thesis Research on Electrical and Electronic Information Engineering",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "2Years",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M1",
+    "staff": "2kei kyomu Iin-S, 2kei kakukyouin",
+    "room": null
+  },
+  "M4261002T": {
+    "id": "M4261002T",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4261002T&je_cd=1",
+    "name": "Thesis Research on Electrical and Electronic Information Engineering",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "2kei kyomu Iin-S, 2kei kakukyouin",
+    "room": null
+  },
+  "M42610040": {
+    "id": "M42610040",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42610040&je_cd=1",
+    "name": "Seminar on Electrical and Electronic Information Engineering",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "2kei kyomu Iin-S",
+    "room": null
+  },
+  "M42610050": {
+    "id": "M42610050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42610050&je_cd=1",
+    "name": "Seminar on Electrical and Electronic Information Engineering 1A",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "4",
+    "grade": "M1",
+    "staff": "2kei kyomu Iin-S",
+    "room": null
+  },
+  "M42610060": {
+    "id": "M42610060",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42610060&je_cd=1",
+    "name": "Seminar on Electrical and Electronic Information Engineering 1B",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "2",
+    "grade": "M2",
+    "staff": "2kei kyomu Iin-S",
+    "room": null
+  },
+  "M42630100": {
+    "id": "M42630100",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42630100&je_cd=1",
+    "name": "Methodology of R & D 1",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "2kei kyomu Iin-S",
+    "room": null
+  },
   "M42630110": {
     "id": "M42630110",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42630110&je_cd=1",
@@ -3001,6 +3430,19 @@
     "grade": "M1",
     "staff": "2kei kyomu Iin-S",
     "room": null
+  },
+  "M42630130": {
+    "id": "M42630130",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42630130&je_cd=1",
+    "name": "Material Science for Electronics 2",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "UCHIDA Hironaga, YATSUI Takashi, NAKAMURA Yuichi, KAWAMURA Go",
+    "room": "C-413"
   },
   "M42630140": {
     "id": "M42630140",
@@ -3015,6 +3457,19 @@
     "staff": "MATSUDA Atsunori, HATTORI Toshiaki, KATOH Ryo",
     "room": "B-306"
   },
+  "M42630170": {
+    "id": "M42630170",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42630170&je_cd=1",
+    "name": "Electrical Energy Systems 2",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "TAKIKAWA Hirofumi, MURAKAMI Yoshinobu",
+    "room": "C-312"
+  },
   "M42630180": {
     "id": "M42630180",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42630180&je_cd=1",
@@ -3027,6 +3482,19 @@
     "grade": "M1",
     "staff": "INADA Ryoji, MURAKAMI Yoshinobu, HARIGAI Toru",
     "room": "C-313"
+  },
+  "M42630210": {
+    "id": "M42630210",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42630210&je_cd=1",
+    "name": "Semiconductor Physics 2",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "KAWANO Takeshi, TAKAHASHI Kazuhiro, YAMANE Keisuke, CHOI YONG JOON",
+    "room": "C-613"
   },
   "M42630220": {
     "id": "M42630220",
@@ -3054,6 +3522,136 @@
     "staff": "UEHARA Hideyuki, TAKEUCHI Keigo",
     "room": "C-414"
   },
+  "M42630270": {
+    "id": "M42630270",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M42630270&je_cd=1",
+    "name": "Advanced Electronic Information System 2",
+    "area": "Advanced Electrical and Electronic Information Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "UEHARA Hideyuki, TAMURA Masaya, SHAO Xun",
+    "room": "C-614"
+  },
+  "M43610010": {
+    "id": "M43610010",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610010&je_cd=1",
+    "name": "Seminar on Computer Science and Engineering I",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "4",
+    "grade": "M1",
+    "staff": "3kei kyomu Iin-S, 3kei kakukyouin",
+    "room": null
+  },
+  "M43610020": {
+    "id": "M43610020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610020&je_cd=1",
+    "name": "Seminar on Computer Science and Engineering II",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "2",
+    "grade": "M2",
+    "staff": "3kei kyomu Iin-S, 3kei kakukyouin",
+    "room": null
+  },
+  "M43610030": {
+    "id": "M43610030",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610030&je_cd=1",
+    "name": "Thesis Research on Computer Science and Engineering",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "2Years",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M1, M2",
+    "staff": "3kei kyomu Iin-S, 3kei kakukyouin",
+    "room": null
+  },
+  "M4361003T": {
+    "id": "M4361003T",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4361003T&je_cd=1",
+    "name": "Thesis Research on Computer Science and Engineering",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "3kei kyomu Iin-S, 3kei kakukyouin",
+    "room": null
+  },
+  "M43610040": {
+    "id": "M43610040",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610040&je_cd=1",
+    "name": "Seminar on Computer Science and Engineering",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "3kei kyomu Iin-S, 3kei kakukyouin",
+    "room": null
+  },
+  "M43610060": {
+    "id": "M43610060",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610060&je_cd=1",
+    "name": "Case Study in Imaging and Light and XR",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "4",
+    "grade": "M2",
+    "staff": "3kei kyomu Iin-S, 3kei kakukyouin",
+    "room": null
+  },
+  "M43610070": {
+    "id": "M43610070",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610070&je_cd=1",
+    "name": "Advanced Research Methods",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "2",
+    "grade": "M2",
+    "staff": "3kei kyomu Iin-S, 3kei kakukyouin",
+    "room": null
+  },
+  "M43610080": {
+    "id": "M43610080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610080&je_cd=1",
+    "name": "Data Science and Analysis 1",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M2",
+    "staff": "AKIBA Tomoyoshi",
+    "room": "A-108"
+  },
+  "M43610090": {
+    "id": "M43610090",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610090&je_cd=1",
+    "name": "Data Science and Analysis 2",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M2",
+    "staff": "MICHELE Dall'Arno",
+    "room": "A-108"
+  },
   "M43610100": {
     "id": "M43610100",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43610100&je_cd=1",
@@ -3066,6 +3664,32 @@
     "grade": "M2",
     "staff": "3kei kyomu Iin-S, 3kei kakukyouin",
     "room": null
+  },
+  "M43630240": {
+    "id": "M43630240",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630240&je_cd=1",
+    "name": "Networking, Advanced 1",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "UMEMURA Kyoji",
+    "room": "F1-211"
+  },
+  "M43630250": {
+    "id": "M43630250",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630250&je_cd=1",
+    "name": "Networking, Advanced 2",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "OMURA Ren",
+    "room": "C2-408"
   },
   "M43630430": {
     "id": "M43630430",
@@ -3080,6 +3704,84 @@
     "staff": "SUZUKI Koutarou",
     "room": "F-201"
   },
+  "M43630470": {
+    "id": "M43630470",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630470&je_cd=1",
+    "name": "Data Science and Analysis 1",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "AKIBA Tomoyoshi",
+    "room": "A-108"
+  },
+  "M43630480": {
+    "id": "M43630480",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630480&je_cd=1",
+    "name": "Robotic Perception and Human-Robot Interaction 1",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "MIURA Jun",
+    "room": "A-105"
+  },
+  "M43630490": {
+    "id": "M43630490",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630490&je_cd=1",
+    "name": "Robotic Perception and Human-Robot Interaction 2",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "OSHIMA Naoki, OMURA Ren",
+    "room": "A-105"
+  },
+  "M43630500": {
+    "id": "M43630500",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630500&je_cd=1",
+    "name": "Data Science and Analysis 2",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "MICHELE Dall'Arno",
+    "room": "A-108"
+  },
+  "M43630520": {
+    "id": "M43630520",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630520&je_cd=1",
+    "name": "3D Vision Computation 1",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "KANAZAWA Yasushi",
+    "room": "A-203"
+  },
+  "M43630530": {
+    "id": "M43630530",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630530&je_cd=1",
+    "name": "3D Vision Computation 2",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "SUGAYA Yasuyuki",
+    "room": "A-203"
+  },
   "M43630540": {
     "id": "M43630540",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630540&je_cd=1",
@@ -3092,6 +3794,149 @@
     "grade": "M1",
     "staff": "MURAKOSHI Kazushi",
     "room": "F1-103"
+  },
+  "M43630560": {
+    "id": "M43630560",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630560&je_cd=1",
+    "name": "Human Sensation and Perception 1",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "NAKAUCHI Shigeki",
+    "room": "A2-101"
+  },
+  "M43630570": {
+    "id": "M43630570",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630570&je_cd=1",
+    "name": "Human Sensation and Perception 2",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "KOIDA Kowa",
+    "room": "A2-101"
+  },
+  "M43630580": {
+    "id": "M43630580",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630580&je_cd=1",
+    "name": "X Reality and Psychology 1",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "KITAZAKI Michiteru",
+    "room": "A1-301"
+  },
+  "M43630590": {
+    "id": "M43630590",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M43630590&je_cd=1",
+    "name": "X Reality and Psychology 2",
+    "area": "Advanced Computer Science and Engineering",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "MINAMI Tetsuto",
+    "room": "A1-301"
+  },
+  "M44610050": {
+    "id": "M44610050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44610050&je_cd=1",
+    "name": "Seminar on Applied Chemistry and Life Science 1",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "3",
+    "grade": "M1",
+    "staff": "4kei kyomu Iin-S, 4kei kakukyouin",
+    "room": null
+  },
+  "M44610060": {
+    "id": "M44610060",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44610060&je_cd=1",
+    "name": "Seminar on Applied Chemistry and Life Science 2",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "3",
+    "grade": "M2",
+    "staff": "4kei kyomu Iin-S, 4kei kakukyouin",
+    "room": null
+  },
+  "M44610070": {
+    "id": "M44610070",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44610070&je_cd=1",
+    "name": "Thesis Research on Applied Chemistry and Life Science",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "2Years",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M1",
+    "staff": "4kei kyomu Iin-S, 4kei kakukyouin",
+    "room": null
+  },
+  "M4461007T": {
+    "id": "M4461007T",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4461007T&je_cd=1",
+    "name": "Thesis Research on Applied Chemistry and Life Science",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "4kei kyomu Iin-S, 4kei kakukyouin",
+    "room": null
+  },
+  "M44610080": {
+    "id": "M44610080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44610080&je_cd=1",
+    "name": "Seminar on Applied Chemistry and Life Science",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "4kei kyomu Iin-S, 4kei kakukyouin",
+    "room": null
+  },
+  "M44630070": {
+    "id": "M44630070",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630070&je_cd=1",
+    "name": "Advanced Polymer Chemistry",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "HARAGUCHI Naoki",
+    "room": "B-404"
+  },
+  "M44630080": {
+    "id": "M44630080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630080&je_cd=1",
+    "name": "Advanced Polymer Engineering",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Fall2 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "YOSHIDA Eri",
+    "room": "A-202"
   },
   "M44630100": {
     "id": "M44630100",
@@ -3132,6 +3977,19 @@
     "staff": "TERO Ryugo",
     "room": "G-606"
   },
+  "M44630300": {
+    "id": "M44630300",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630300&je_cd=1",
+    "name": "Applied Environmental Biology",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "NAKABACHI Atsushi",
+    "room": "G-502"
+  },
   "M44630360": {
     "id": "M44630360",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630360&je_cd=1",
@@ -3145,6 +4003,19 @@
     "staff": "TAKASHIMA Kazunori",
     "room": "G-504"
   },
+  "M44630430": {
+    "id": "M44630430",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630430&je_cd=1",
+    "name": "Advanced Molecular Design Chemistry 1",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "4kei kyomu Iin-S, MATSUMOTO Akihiko, SAITO Yoshihiro, YOSHIDA Eri, HARAGUCHI Naoki, ARIYOSHI Seiichiro",
+    "room": null
+  },
   "M44630440": {
     "id": "M44630440",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630440&je_cd=1",
@@ -3156,6 +4027,19 @@
     "units": "2",
     "grade": "M1",
     "staff": "4kei kyomu Iin-S, MATSUMOTO Akihiko, SAITO Yoshihiro, YOSHIDA Eri, HARAGUCHI Naoki, ARIYOSHI Seiichiro",
+    "room": null
+  },
+  "M44630450": {
+    "id": "M44630450",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630450&je_cd=1",
+    "name": "Advanced Molecular Functional Chemistry 1",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "4kei kyomu Iin-S, MIZUSHIMA Takanori, OGUCHI Tatsuo, ARAKAWA Yuki, SHIBATOMI Kazutaka, DAIMON Hiroyuki",
     "room": null
   },
   "M44630460": {
@@ -3171,6 +4055,19 @@
     "staff": "4kei kyomu Iin-S, MIZUSHIMA Takanori, OGUCHI Tatsuo, SHIBATOMI Kazutaka, DAIMON Hiroyuki",
     "room": null
   },
+  "M44630470": {
+    "id": "M44630470",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630470&je_cd=1",
+    "name": "Advanced Molecular Biological Chemistry 1",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "4kei kyomu Iin-S, EKI Toshihiko, TAKASHIMA Kazunori, TANAKA Terumichi, TERO Ryugo, KURITA Hirofumi, HIROSE Yu, YOSHIDA Sachiko, NUMANO Rika",
+    "room": null
+  },
   "M44630480": {
     "id": "M44630480",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630480&je_cd=1",
@@ -3184,6 +4081,97 @@
     "staff": "4kei kyomu Iin-S, EKI Toshihiko, TAKASHIMA Kazunori, TANAKA Terumichi, TERO Ryugo, KURITA Hirofumi, HIROSE Yu, YOSHIDA Sachiko, NUMANO Rika, NAKABACHI Atsushi",
     "room": null
   },
+  "M44630500": {
+    "id": "M44630500",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M44630500&je_cd=1",
+    "name": "Photobiology",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Fall1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "HIROSE Yu",
+    "room": "G-503"
+  },
+  "M45610010": {
+    "id": "M45610010",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45610010&je_cd=1",
+    "name": "Seminar on Architecture and Civil Engineering I",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "3",
+    "grade": "M1",
+    "staff": "5kei kyomu Iin-S",
+    "room": null
+  },
+  "M45610020": {
+    "id": "M45610020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45610020&je_cd=1",
+    "name": "Seminar on Architecture and Civil Engineering II",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "3",
+    "grade": "M2",
+    "staff": "5kei kyomu Iin-S",
+    "room": null
+  },
+  "M45610030": {
+    "id": "M45610030",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45610030&je_cd=1",
+    "name": "Thesis Research on Architecture and Civil Engineering",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "2Years",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M1",
+    "staff": "5kei kyomu Iin-S, 5kei kakukyouin",
+    "room": null
+  },
+  "M4561003T": {
+    "id": "M4561003T",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M4561003T&je_cd=1",
+    "name": "Thesis Research on Architecture and Civil Engineering",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "5kei kyomu Iin-S",
+    "room": null
+  },
+  "M45610040": {
+    "id": "M45610040",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45610040&je_cd=1",
+    "name": "Seminar on Architecture and Civil Engineering",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Year",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "6",
+    "grade": "M2",
+    "staff": "5kei kyomu Iin-S",
+    "room": null
+  },
+  "M45610050": {
+    "id": "M45610050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45610050&je_cd=1",
+    "name": "Problem-Based Learning Program A",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Required",
+    "units": "1",
+    "grade": "M1",
+    "staff": "5kei kyomu Iin-S, ONO Haruka, SAITOH Taiki",
+    "room": null
+  },
   "M45610060": {
     "id": "M45610060",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45610060&je_cd=1",
@@ -3194,7 +4182,46 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "ONO Haruka",
+    "staff": "ONO Haruka, SAITOH Taiki, ASANO Junichiro, MATSUMOTO Yukihiro",
+    "room": null
+  },
+  "M45630010": {
+    "id": "M45630010",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630010&je_cd=1",
+    "name": "Elasticity and Stability",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "MATSUMOTO Yukihiro",
+    "room": "D-802"
+  },
+  "M45630090": {
+    "id": "M45630090",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630090&je_cd=1",
+    "name": "Coastal Hydraulics",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "KATO Shigeru",
+    "room": "D-802"
+  },
+  "M45630190": {
+    "id": "M45630190",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630190&je_cd=1",
+    "name": "Advanced Structural System Planning and Design I",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "5kei kyomu Iin-S, SAITOH Taiki, NAKAZAWA Shoji, MATSUI Tomoya, MATSUMOTO Yukihiro, MATSUDA Tatsuya",
     "room": null
   },
   "M45630200": {
@@ -3210,6 +4237,19 @@
     "staff": "5kei kyomu Iin-S, SAITOH Taiki, NAKAZAWA Shoji, MIURA Kinya, MATSUI Tomoya, MATSUMOTO Yukihiro, MATSUDA Tatsuya",
     "room": null
   },
+  "M45630210": {
+    "id": "M45630210",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630210&je_cd=1",
+    "name": "Advanced Environmental System Planning and Design I",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "5kei kyomu Iin-S, TAJIMA Masaki, INOUE Takanobu, KATO Shigeru, SHIMAZAKI Yasuhiro, YOKOTA Kuriko, TOKAIRIN Takayuki",
+    "room": null
+  },
   "M45630220": {
     "id": "M45630220",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630220&je_cd=1",
@@ -3223,6 +4263,19 @@
     "staff": "5kei kyomu Iin-S, TAJIMA Masaki, INOUE Takanobu, KATO Shigeru, SHIMAZAKI Yasuhiro, YOKOTA Kuriko, TOKAIRIN Takayuki",
     "room": null
   },
+  "M45630230": {
+    "id": "M45630230",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630230&je_cd=1",
+    "name": "Advanced Regional System Planning and Design I",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "5kei kyomu Iin-S, ASANO Junichiro, SHIBUSAWA Hiroyuki, MIZUTANI Akihiro, ONO Haruka, SUGIKI Nao, MATSUO Kojiro",
+    "room": null
+  },
   "M45630240": {
     "id": "M45630240",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630240&je_cd=1",
@@ -3233,8 +4286,34 @@
     "required": "Elective",
     "units": "2",
     "grade": "M1",
-    "staff": "5kei kyomu Iin-S, MATSUSHIMA Shiro, ASANO Junichiro, SHIBUSAWA Hiroyuki, MIZUTANI Akihiro, ONO Haruka, SUGIKI Nao, MATSUO Kojiro",
+    "staff": "5kei kyomu Iin-S, MATSUO Kojiro, ASANO Junichiro, SHIBUSAWA Hiroyuki, MIZUTANI Akihiro, ONO Haruka, SUGIKI Nao",
     "room": null
+  },
+  "M45630290": {
+    "id": "M45630290",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630290&je_cd=1",
+    "name": "Seismic Design of Structures",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "SAITOH Taiki",
+    "room": "D-805"
+  },
+  "M45630330": {
+    "id": "M45630330",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=M45630330&je_cd=1",
+    "name": "Geohazards",
+    "area": "Advanced Architecture and Civil Engineering",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "MATSUDA Tatsuya",
+    "room": "D-802"
   },
   "M45630350": {
     "id": "M45630350",
@@ -3272,7 +4351,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "M1, M2",
-    "staff": "NAKAUCHI Shigeki, SAITOH Taiki, To be assigned",
+    "staff": "NAKAUCHI Shigeki, SAITOH Taiki, OHWA Masaki, SHIRAI Tomoaki, KAKUTA Masaya, WAKIMOTO Yuhei, IRIYAMA Takahiko, MATSUMOTO Masayuki, SAKUI Koji, ISHIDA Yoshiteru, TAKANO Yasushi, HIRABAYASHI Jun",
     "room": "A-209"
   },
   "S20330600": {
@@ -3285,7 +4364,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "M2",
-    "staff": "NAKAUCHI Shigeki, To be assigned",
+    "staff": "NAKAUCHI Shigeki, OHWA Masaki, SHIRAI Tomoaki, KAKUTA Masaya, WAKIMOTO Yuhei, IRIYAMA Takahiko, MATSUMOTO Masayuki, SAITOH Taiki, SAKUI Koji, ISHIDA Yoshiteru, TAKANO Yasushi, HIRABAYASHI Jun",
     "room": "A-209"
   },
   "S20430020": {
@@ -3311,8 +4390,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1",
-    "staff": "ADACHI Tadaharu, NAKAMURA Yuji",
-    "room": null
+    "staff": "ADACHI Tadaharu, NAKAMURA Yuji, NGUYEN Thien, THOMSON Gordon",
+    "room": "A-202, A-203"
   },
   "S20512010": {
     "id": "S20512010",
@@ -3376,7 +4455,7 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "ISHII Hiromu",
+    "staff": "MINAMI Tetsuto",
     "room": null
   },
   "S20530020": {
@@ -3389,7 +4468,7 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "ISHII Hiromu",
+    "staff": "MINAMI Tetsuto",
     "room": null
   },
   "S20530060": {
@@ -3415,8 +4494,8 @@
     "required": "Required",
     "units": "2",
     "grade": "M1",
-    "staff": "MINAMI Tetsuto, ISHII Hiromu",
-    "room": null
+    "staff": "MINAMI Tetsuto",
+    "room": "A-207"
   },
   "S20530210": {
     "id": "S20530210",
@@ -3545,8 +4624,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1",
-    "staff": "2kei kyomu Iin-S, To be assigned, To be assigned, To be assigned, To be assigned",
-    "room": null
+    "staff": "2kei kyomu Iin-S, TSUKAMOTO Arata, HIKOSAKA Hideaki, MATSUZONO Kazuhisa, KUMAKURA Kazuhide",
+    "room": "A1-201"
   },
   "S22630050": {
     "id": "S22630050",
@@ -3558,8 +4637,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1",
-    "staff": "2kei kyomu Iin-S, To be assigned, To be assigned, To be assigned, To be assigned",
-    "room": null
+    "staff": "2kei kyomu Iin-S, TSUKAMOTO Arata, HIKOSAKA Hideaki, MATSUZONO Kazuhisa, KUMAKURA Kazuhide",
+    "room": "A1-201"
   },
   "S22630060": {
     "id": "S22630060",
@@ -3584,8 +4663,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1, M2",
-    "staff": "3kei kyomu Iin-S, To be assigned, To be assigned, To be assigned",
-    "room": null
+    "staff": "3kei kyomu Iin-S, SHINOHARA Toshikazu, TAKAHASHI Naohiro, KURIMOTO Takashi",
+    "room": "A-114"
   },
   "S23630020": {
     "id": "S23630020",
@@ -3597,8 +4676,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1, M2",
-    "staff": "3kei kyomu Iin-S, To be assigned, To be assigned, To be assigned",
-    "room": null
+    "staff": "3kei kyomu Iin-S, TAMAKI Toru, AKAHO Shotaro, To be assigned",
+    "room": "A-114"
   },
   "S24623010": {
     "id": "S24623010",
@@ -3610,8 +4689,8 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "4kei kyomu Iin-S, MIKI Takeshi, HARADA Katsuhisa, To be assigned, KANNO Nozomu",
-    "room": "A2-101"
+    "staff": "4kei kyomu Iin-S, MIKI Takeshi, HARADA Katsuhisa, HORI Akihiro, KANNO Nozomu",
+    "room": "A2-201"
   },
   "S24623040": {
     "id": "S24623040",
@@ -3677,5 +4756,18 @@
     "grade": "M1",
     "staff": "5kei kyomu Iin-S",
     "room": null
+  },
+  "S40030100": {
+    "id": "S40030100",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=S40030100&je_cd=1",
+    "name": "Japanese Industrial Technologies and Innovations",
+    "area": "General courses",
+    "term": "Fall term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "NAKAUCHI Shigeki, OHWA Masaki, SHIRAI Tomoaki, KAKUTA Masaya, WAKIMOTO Yuhei, IRIYAMA Takahiko, MATSUMOTO Masayuki, SAITOH Taiki, SAKUI Koji, ISHIDA Yoshiteru, TAKANO Yasushi, HIRABAYASHI Jun",
+    "room": "A-209"
   }
 }

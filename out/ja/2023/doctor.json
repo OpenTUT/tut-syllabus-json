@@ -166,7 +166,7 @@
     "units": "1",
     "grade": "D2",
     "staff": "Ｓ１系教務委員, 教務委員会副委員長",
-    "room": "A1-201"
+    "room": "A-114"
   },
   "D31020030": {
     "id": "D31020030",
@@ -191,7 +191,7 @@
     "required": "選択",
     "units": "2",
     "grade": "D1",
-    "staff": "河村　庄造, 足立　忠晴, 竹市　嘉紀, 松原　真己",
+    "staff": "河村　庄造, 足立　忠晴, 竹市　嘉紀",
     "room": "D-305"
   },
   "D31030020": {
@@ -322,7 +322,7 @@
     "units": "1",
     "grade": "D2",
     "staff": "Ｓ２系教務委員, 教務委員会副委員長",
-    "room": "A1-201"
+    "room": "A-114"
   },
   "D32020030": {
     "id": "D32020030",
@@ -412,7 +412,7 @@
     "required": "選択",
     "units": "2",
     "grade": "D1",
-    "staff": "河野 剛士, 髙橋　一浩",
+    "staff": "河野 剛士, 髙橋　一浩, 崔　容俊, 山根　啓輔",
     "room": "C-613"
   },
   "D32030070": {
@@ -478,7 +478,7 @@
     "units": "1",
     "grade": "D2",
     "staff": "Ｓ３系教務委員, 教務委員会副委員長",
-    "room": "A1-201"
+    "room": "A-114"
   },
   "D33020030": {
     "id": "D33020030",
@@ -776,7 +776,7 @@
     "required": "選択",
     "units": "1",
     "grade": "D1",
-    "staff": "未定",
+    "staff": "Michele Dall'Arno",
     "room": "A-108"
   },
   "D33030540": {
@@ -803,7 +803,7 @@
     "units": "1",
     "grade": "D2",
     "staff": "Ｓ４系教務委員, 教務委員会副委員長",
-    "room": "A1-201"
+    "room": "A-114"
   },
   "D34010050": {
     "id": "D34010050",
@@ -972,7 +972,7 @@
     "units": "1",
     "grade": "D2",
     "staff": "Ｓ５系教務委員, 教務委員会副委員長",
-    "room": "A1-201"
+    "room": "A-114"
   },
   "D35020030": {
     "id": "D35020030",
@@ -1036,7 +1036,7 @@
     "required": "選択",
     "units": "2",
     "grade": "D1",
-    "staff": "松島 史朗, 水谷　晃啓",
+    "staff": "水谷　晃啓",
     "room": "D-707"
   },
   "D35030060": {
@@ -1104,6 +1104,136 @@
     "staff": "和泉　司",
     "room": "B-515"
   },
+  "D5002001a": {
+    "id": "D5002001a",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D5002001a&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "機械工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "Ｓ１系教務委員, 教務委員会副委員長, 田中 三郎, 土谷　徹",
+    "room": null
+  },
+  "D5002001b": {
+    "id": "D5002001b",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D5002001b&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "電気・電子情報工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "Ｓ２系教務委員, 教務委員会副委員長, 田中 三郎, 土谷　徹",
+    "room": null
+  },
+  "D5002001c": {
+    "id": "D5002001c",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D5002001c&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "情報・知能工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "Ｓ３系教務委員, 教務委員会副委員長, 田中 三郎, 土谷　徹",
+    "room": null
+  },
+  "D5002001d": {
+    "id": "D5002001d",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D5002001d&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "応用化学・生命専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "Ｓ４系教務委員, 教務委員会副委員長, 田中 三郎, 土谷　徹",
+    "room": null
+  },
+  "D5002001e": {
+    "id": "D5002001e",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D5002001e&je_cd=1",
+    "name": "Ethics for Researchers",
+    "area": "建築・都市システム学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "Ｓ５系教務委員, 教務委員会副委員長, 田中 三郎, 土谷　徹",
+    "room": null
+  },
+  "D51010010": {
+    "id": "D51010010",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51010010&je_cd=1",
+    "name": "Advanced Seminar on Mechanical Engineering 1",
+    "area": "機械工学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "4",
+    "grade": "D1",
+    "staff": "Ｓ１系教務委員",
+    "room": null
+  },
+  "D51010020": {
+    "id": "D51010020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51010020&je_cd=1",
+    "name": "Advanced Seminar on Mechanical Engineering 2",
+    "area": "機械工学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ１系教務委員",
+    "room": null
+  },
+  "D51010050": {
+    "id": "D51010050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51010050&je_cd=1",
+    "name": "Seminar on Interdisciplinary Research",
+    "area": "機械工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ１系教務委員, 教務委員会副委員長",
+    "room": "A-114"
+  },
+  "D51010100": {
+    "id": "D51010100",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51010100&je_cd=1",
+    "name": "Data Science Exercise",
+    "area": "機械工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "永井　萌土, 中村　祐二",
+    "room": null
+  },
+  "D51010110": {
+    "id": "D51010110",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51010110&je_cd=1",
+    "name": "Advanced Data Science Exercise",
+    "area": "機械工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "永井　萌土, 中村　祐二",
+    "room": null
+  },
   "D51030010": {
     "id": "D51030010",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51030010&je_cd=1",
@@ -1114,8 +1244,21 @@
     "required": "選択",
     "units": "2",
     "grade": "D1",
-    "staff": "河村　庄造, 足立　忠晴, 竹市　嘉紀, 松原　真己",
+    "staff": "河村　庄造, 足立　忠晴, 竹市　嘉紀",
     "room": "D-305"
+  },
+  "D51030020": {
+    "id": "D51030020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51030020&je_cd=1",
+    "name": "Advanced Production Processes",
+    "area": "機械工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "柴田　隆行, 安部　洋平, 永井　萌土",
+    "room": "D-605"
   },
   "D51030030": {
     "id": "D51030030",
@@ -1130,6 +1273,19 @@
     "staff": "横山　誠二, 安井　利明",
     "room": "D-511"
   },
+  "D51030040": {
+    "id": "D51030040",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51030040&je_cd=1",
+    "name": "Advanced Materials Science",
+    "area": "機械工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "三浦　博己, 戸高　義一, 足立　望, 大場　洋次郎",
+    "room": "D-508"
+  },
   "D51030070": {
     "id": "D51030070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51030070&je_cd=1",
@@ -1142,6 +1298,32 @@
     "grade": "D1",
     "staff": "中村　祐二, 土井　謙太郎, 鈴木　孝司, 松岡　常吉",
     "room": "D-311"
+  },
+  "D51030080": {
+    "id": "D51030080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51030080&je_cd=1",
+    "name": "Advanced Environmental Engineering",
+    "area": "機械工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "飯田　明由, 関下　信正, 横山　博史",
+    "room": "D-313"
+  },
+  "D51030090": {
+    "id": "D51030090",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D51030090&je_cd=1",
+    "name": "Advanced Systems and Instrumentation Engineering",
+    "area": "機械工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "内山　直樹, 髙山　弘太郎, 高橋　淳二",
+    "room": "D-610"
   },
   "D51030110": {
     "id": "D51030110",
@@ -1156,6 +1338,45 @@
     "staff": "佐藤　海二, 高木　賢太郎, 佐野　滋則",
     "room": "D-511"
   },
+  "D52010020": {
+    "id": "D52010020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52010020&je_cd=1",
+    "name": "Seminar on Electrical and Electronic Information Engineering 2",
+    "area": "電気・電子情報工学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "4",
+    "grade": "D1",
+    "staff": "Ｓ２系教務委員",
+    "room": null
+  },
+  "D52010030": {
+    "id": "D52010030",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52010030&je_cd=1",
+    "name": "Seminar on Electrical and Electronic Information Engineering 3",
+    "area": "電気・電子情報工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ２系教務委員",
+    "room": null
+  },
+  "D52010050": {
+    "id": "D52010050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52010050&je_cd=1",
+    "name": "Seminar on Interdisciplinary Research",
+    "area": "電気・電子情報工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ２系教務委員, 教務委員会副委員長",
+    "room": "A-114"
+  },
   "D52030010": {
     "id": "D52030010",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52030010&je_cd=1",
@@ -1167,6 +1388,32 @@
     "units": "2",
     "grade": "D1",
     "staff": "内田 裕久, 八井　崇, 中村 雄一, 河村　剛",
+    "room": "C-205"
+  },
+  "D52030020": {
+    "id": "D52030020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52030020&je_cd=1",
+    "name": "Advanced Electronic Materials 2",
+    "area": "電気・電子情報工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "松田 厚範, 服部 敏明, 加藤 亮",
+    "room": "C-205"
+  },
+  "D52030030": {
+    "id": "D52030030",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52030030&je_cd=1",
+    "name": "Advanced Electrical Systems 1",
+    "area": "電気・電子情報工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "滝川 浩史, 稲田 亮史, 村上 義信",
     "room": "C-205"
   },
   "D52030040": {
@@ -1195,6 +1442,19 @@
     "staff": "澤田 和明, 石川　靖彦, 関口　寛人, 野田　俊彦",
     "room": "C-613"
   },
+  "D52030060": {
+    "id": "D52030060",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52030060&je_cd=1",
+    "name": "Advanced Microelectronics 2",
+    "area": "電気・電子情報工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "河野 剛士, 髙橋　一浩, 山根　啓輔, 崔　容俊",
+    "room": "C-613"
+  },
   "D52030070": {
     "id": "D52030070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52030070&je_cd=1",
@@ -1207,6 +1467,110 @@
     "grade": "D1",
     "staff": "上原 秀幸, 竹内　啓悟",
     "room": "C-414"
+  },
+  "D52030080": {
+    "id": "D52030080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52030080&je_cd=1",
+    "name": "Advanced Information and Communication Systems 2",
+    "area": "電気・電子情報工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "上原 秀幸, 田村　昌也, Shao Xun",
+    "room": "C-614"
+  },
+  "D52030090": {
+    "id": "D52030090",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D52030090&je_cd=1",
+    "name": "Methodology of R & D",
+    "area": "電気・電子情報工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "Ｓ２系教務委員",
+    "room": null
+  },
+  "D53010010": {
+    "id": "D53010010",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53010010&je_cd=1",
+    "name": "Seminar on Computer Science and Engineering 1",
+    "area": "情報・知能工学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "4",
+    "grade": "D1",
+    "staff": "Ｓ３系教務委員",
+    "room": null
+  },
+  "D53010020": {
+    "id": "D53010020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53010020&je_cd=1",
+    "name": "Seminar on Computer Science and Engineering 2",
+    "area": "情報・知能工学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ３系教務委員",
+    "room": null
+  },
+  "D53010030": {
+    "id": "D53010030",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53010030&je_cd=1",
+    "name": "Seminar on Computer Science and Engineering for DDDP",
+    "area": "情報・知能工学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "5",
+    "grade": "D2",
+    "staff": "Ｓ３系教務委員",
+    "room": null
+  },
+  "D53010050": {
+    "id": "D53010050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53010050&je_cd=1",
+    "name": "Seminar on Interdisciplinary Research",
+    "area": "情報・知能工学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ３系教務委員, 教務委員会副委員長",
+    "room": "A-114"
+  },
+  "D53030210": {
+    "id": "D53030210",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030210&je_cd=1",
+    "name": "Computer Network Engineering 1",
+    "area": "情報・知能工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "梅村 恭司",
+    "room": "F1-211"
+  },
+  "D53030220": {
+    "id": "D53030220",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030220&je_cd=1",
+    "name": "Computer Network Engineering 2",
+    "area": "情報・知能工学専攻",
+    "term": "後期２",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "大村　廉",
+    "room": "C2-408"
   },
   "D53030330": {
     "id": "D53030330",
@@ -1221,6 +1585,84 @@
     "staff": "鈴木　幸太郎",
     "room": "F-201"
   },
+  "D53030380": {
+    "id": "D53030380",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030380&je_cd=1",
+    "name": "Advanced Data Science and Analysis 1",
+    "area": "情報・知能工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "秋葉 友良",
+    "room": "A-108"
+  },
+  "D53030390": {
+    "id": "D53030390",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030390&je_cd=1",
+    "name": "Advanced Robotic Perception and Human-Robot Interaction 1",
+    "area": "情報・知能工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "三浦 純",
+    "room": "A-105"
+  },
+  "D53030400": {
+    "id": "D53030400",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030400&je_cd=1",
+    "name": "Advanced Robotic Perception and Human-Robot Interaction 2",
+    "area": "情報・知能工学専攻",
+    "term": "後期２",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "大島　直樹, 大村　廉",
+    "room": "A-105"
+  },
+  "D53030410": {
+    "id": "D53030410",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030410&je_cd=1",
+    "name": "Advanced Data Science and Analysis 2",
+    "area": "情報・知能工学専攻",
+    "term": "後期２",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "Michele Dall'Arno",
+    "room": "A-108"
+  },
+  "D53030430": {
+    "id": "D53030430",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030430&je_cd=1",
+    "name": "Advanced 3D Vision Computation 1",
+    "area": "情報・知能工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "金澤 靖",
+    "room": "A-203"
+  },
+  "D53030440": {
+    "id": "D53030440",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030440&je_cd=1",
+    "name": "Advanced 3D Vision Computation 2",
+    "area": "情報・知能工学専攻",
+    "term": "後期２",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "菅谷 保之",
+    "room": "A-203"
+  },
   "D53030450": {
     "id": "D53030450",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030450&je_cd=1",
@@ -1233,6 +1675,97 @@
     "grade": "D1",
     "staff": "村越 一支",
     "room": "F1-103"
+  },
+  "D53030470": {
+    "id": "D53030470",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030470&je_cd=1",
+    "name": "Advanced Human Sensation and Perception 1",
+    "area": "情報・知能工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "中内 茂樹",
+    "room": "A2-101"
+  },
+  "D53030480": {
+    "id": "D53030480",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030480&je_cd=1",
+    "name": "Advanced Human Sensation and Perception 2",
+    "area": "情報・知能工学専攻",
+    "term": "後期２",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "鯉田　孝和",
+    "room": "A2-101"
+  },
+  "D53030490": {
+    "id": "D53030490",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030490&je_cd=1",
+    "name": "Advanced X Reality and Psychology 1",
+    "area": "情報・知能工学専攻",
+    "term": "後期１",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "北﨑 充晃",
+    "room": "A1-301"
+  },
+  "D53030500": {
+    "id": "D53030500",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D53030500&je_cd=1",
+    "name": "Advanced X Reality and Psychology 2",
+    "area": "情報・知能工学専攻",
+    "term": "後期２",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D1",
+    "staff": "南　哲人",
+    "room": "A1-301"
+  },
+  "D54010050": {
+    "id": "D54010050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D54010050&je_cd=1",
+    "name": "Seminar on Interdisciplinary Research",
+    "area": "応用化学・生命専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ４系教務委員, 教務委員会副委員長",
+    "room": "A-114"
+  },
+  "D54010080": {
+    "id": "D54010080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D54010080&je_cd=1",
+    "name": "Seminar on Applied Chemistry and Life Science 1",
+    "area": "応用化学・生命専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "4",
+    "grade": "D1",
+    "staff": "Ｓ４系教務委員",
+    "room": null
+  },
+  "D54010090": {
+    "id": "D54010090",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D54010090&je_cd=1",
+    "name": "Seminar on Applied Chemistry and Life Science 2",
+    "area": "応用化学・生命専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ４系教務委員",
+    "room": null
   },
   "D54030030": {
     "id": "D54030030",
@@ -1260,6 +1793,19 @@
     "staff": "浴 俊彦, 田中 照通, 中鉢　淳",
     "room": "G-505"
   },
+  "D54030050": {
+    "id": "D54030050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D54030050&je_cd=1",
+    "name": "Advanced Biotechnology 2",
+    "area": "応用化学・生命専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "吉田 絵里, 広瀬　侑, 吉田 祥子",
+    "room": "A-202"
+  },
   "D54030060": {
     "id": "D54030060",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D54030060&je_cd=1",
@@ -1273,6 +1819,97 @@
     "staff": "柴富 一孝, 原口 直樹",
     "room": "B-502"
   },
+  "D54030070": {
+    "id": "D54030070",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D54030070&je_cd=1",
+    "name": "Advanced Molecular Function Chemistry 2",
+    "area": "応用化学・生命専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "齊戸 美弘, 手老　龍吾, 荒川　優樹",
+    "room": "G-402"
+  },
+  "D54030080": {
+    "id": "D54030080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D54030080&je_cd=1",
+    "name": "Advanced Chemical Technology",
+    "area": "応用化学・生命専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "松本 明彦, 水嶋 生智, 小口 達夫, 髙島 和則",
+    "room": "B-504"
+  },
+  "D55010010": {
+    "id": "D55010010",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55010010&je_cd=1",
+    "name": "Seminar on Architecture and Civil Engineering 1",
+    "area": "建築・都市システム学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "4",
+    "grade": "D1",
+    "staff": "Ｓ５系教務委員",
+    "room": null
+  },
+  "D55010020": {
+    "id": "D55010020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55010020&je_cd=1",
+    "name": "Seminar on Architecture and Civil Engineering 2",
+    "area": "建築・都市システム学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ５系教務委員",
+    "room": null
+  },
+  "D55010050": {
+    "id": "D55010050",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55010050&je_cd=1",
+    "name": "Seminar on Interdisciplinary Research",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ５系教務委員, 教務委員会副委員長",
+    "room": "A-114"
+  },
+  "D55010080": {
+    "id": "D55010080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55010080&je_cd=1",
+    "name": "Japanese Industrial Internship Program",
+    "area": "建築・都市システム学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ５系教務委員, 小野　悠, 齊藤　大樹",
+    "room": null
+  },
+  "D55010100": {
+    "id": "D55010100",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55010100&je_cd=1",
+    "name": "Problem-Based Learning Program B",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "Ｓ５系教務委員, 小野　悠, 齊藤　大樹",
+    "room": null
+  },
   "D55010110": {
     "id": "D55010110",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55010110&je_cd=1",
@@ -1283,8 +1920,47 @@
     "required": "必修",
     "units": "1",
     "grade": "D1",
-    "staff": "小野　悠",
+    "staff": "小野　悠, 齊藤　大樹, 浅野　純一郎, 松本　幸大",
     "room": null
+  },
+  "D55010120": {
+    "id": "D55010120",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55010120&je_cd=1",
+    "name": "Teaching Practice on Global Education",
+    "area": "建築・都市システム学専攻",
+    "term": "変則通年",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "必修",
+    "units": "1",
+    "grade": "D1",
+    "staff": "Ｓ５系教務委員, 小野　悠, 齊藤　大樹",
+    "room": null
+  },
+  "D55030010": {
+    "id": "D55030010",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55030010&je_cd=1",
+    "name": "Advanced Mechanics and Design of Spatial Structure Systems",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "中澤 祥二, 松本　幸大",
+    "room": "D-817"
+  },
+  "D55030020": {
+    "id": "D55030020",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55030020&je_cd=1",
+    "name": "Advanced Structural Design",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "齊藤　大樹, 松井 智哉",
+    "room": "D-815"
   },
   "D55030030": {
     "id": "D55030030",
@@ -1299,6 +1975,58 @@
     "staff": "田島　昌樹, 島﨑　康弘",
     "room": "D-802"
   },
+  "D55030040": {
+    "id": "D55030040",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55030040&je_cd=1",
+    "name": "Advanced Theory in Architectural Design",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "水谷　晃啓",
+    "room": "D-707"
+  },
+  "D55030060": {
+    "id": "D55030060",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55030060&je_cd=1",
+    "name": "Sustainable Urban Planning",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "浅野　純一郎, 小野　悠",
+    "room": "D-708"
+  },
+  "D55030070": {
+    "id": "D55030070",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55030070&je_cd=1",
+    "name": "Advanced Geologic Hazard Mitigation Planning",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "松田　達也",
+    "room": "D-806"
+  },
+  "D55030080": {
+    "id": "D55030080",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55030080&je_cd=1",
+    "name": "Advanced Water Environmental Engineering",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "2",
+    "grade": "D1",
+    "staff": "井上 隆信, 加藤 茂",
+    "room": "D-811"
+  },
   "D55030090": {
     "id": "D55030090",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55030090&je_cd=1",
@@ -1311,6 +2039,19 @@
     "grade": "D1",
     "staff": "渋澤 博幸, 杉木　直, 松尾　幸二郎",
     "room": "D-709"
+  },
+  "D55030140": {
+    "id": "D55030140",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=D55030140&je_cd=1",
+    "name": "Seminar on Interdisciplinary Research",
+    "area": "建築・都市システム学専攻",
+    "term": "後期",
+    "faculty": "大学院工学研究科博士後期課程",
+    "required": "選択",
+    "units": "1",
+    "grade": "D2",
+    "staff": "Ｓ５系教務委員, 教務委員会副委員長",
+    "room": "A-114"
   },
   "D55030150": {
     "id": "D55030150",
@@ -1348,7 +2089,7 @@
     "required": "選必修",
     "units": "1",
     "grade": "D1, D2, D3",
-    "staff": "石井　仁",
+    "staff": "南　哲人",
     "room": null
   },
   "S30530070": {
@@ -1361,7 +2102,7 @@
     "required": "選必修",
     "units": "1",
     "grade": "D1, D2, D3",
-    "staff": "石井　仁",
+    "staff": "南　哲人",
     "room": null
   },
   "S30530100": {
@@ -1374,8 +2115,8 @@
     "required": "選必修",
     "units": "2",
     "grade": "D1, D2, D3",
-    "staff": "南　哲人, 石井　仁",
-    "room": null
+    "staff": "南　哲人",
+    "room": "A-207"
   },
   "S30530120": {
     "id": "S30530120",
@@ -1413,7 +2154,7 @@
     "required": "選択",
     "units": "1",
     "grade": "D1",
-    "staff": "澤田 和明, 石井　仁",
+    "staff": "澤田 和明",
     "room": null
   },
   "S30530150": {
@@ -1426,7 +2167,7 @@
     "required": "選択",
     "units": "1",
     "grade": "D1",
-    "staff": "澤田 和明, 石井　仁",
+    "staff": "澤田 和明",
     "room": null
   },
   "S30710010": {

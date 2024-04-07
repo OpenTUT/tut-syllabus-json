@@ -1,8 +1,11 @@
-import os, sys, json, pathlib
+import json
+import os
+import pathlib
+import sys
 
-from classes import Language, Faculty, SyllabusEncoder
+from classes import Faculty, Language, SyllabusEncoder
 
-year = "2023"
+year = "2024"
 
 # 全シラバス取得
 for language in Language:

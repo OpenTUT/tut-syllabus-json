@@ -1,6 +1,6 @@
 import json
-from enum import Enum
 from dataclasses import dataclass
+from enum import Enum
 from typing import Any, Optional
 
 
@@ -24,7 +24,7 @@ class Syllabus:
     term: Optional[str] = None
     faculty: Optional[str] = None
     required: Optional[str] = None
-    units: Optional[str] = None
+    units: Optional[int] = None
     grade: Optional[str] = None
     staff: Optional[str] = None
     room: Optional[str] = None

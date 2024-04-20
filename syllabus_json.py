@@ -1,16 +1,13 @@
-import json
-import os
-import sys
-import time
+import os, sys, json, time
 from typing import Dict
 
 import tqdm
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support.select import Select
 
-from classes import Faculty, Language, Syllabus, SyllabusEncoder
+from classes import Language, Faculty, Syllabus, SyllabusEncoder
 from utils import Utils
 
 
@@ -22,8 +19,6 @@ def get_syllabus(
 ) -> Syllabus:
     utils.driver.get(url)
     utils.wait_and_find(By.ID, "ctl00_phContents_Detail_LctInfo")
-
-    units = utils.get_inner_text(By.ID, "ctl00_phContents_Detail_lbl_credits")
 
     syllabus = Syllabus(
         id=utils.get_inner_text(By.ID, "ctl00_phContents_Detail_lbl_lct_cd"),
@@ -37,7 +32,8 @@ def get_syllabus(
         or None,
         required=utils.get_inner_text(By.ID, "ctl00_phContents_Detail_lbl_req_name")
         or None,
-        units=int(units) if units else None,
+        units=utils.get_inner_text(By.ID, "ctl00_phContents_Detail_lbl_credits")
+        or None,
         grade=utils.get_inner_text(By.ID, "ctl00_phContents_Detail_lbl_open_grad_name")
         or None,
         staff=utils.get_inner_text(By.ID, "ctl00_phContents_Detail_lbl_staff_name")

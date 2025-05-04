@@ -23,7 +23,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "kyoumu iinkai fukuiintyou, MUTO Hiroyuki, UCHIYAMA Naoki, TAKAHASHI Junji, YASUI Toshiaki, ISHIKAWA Yasuhiko, FUKUMURA Naohiro, WATANABE Kazuho, OBA Yojiro, MATSUMOTO Akihiko, NAKAGAMI Koki, HARAGUCHI Naoki, TANAKA Terumichi, KURITA Hirofumi, NAKADA Shotaro, TAKIUCHI Yuji, TOYODA Masaya, TAJIMA Masaki, SHIMAZAKI Yasuhiro, TOKAIRIN Takayuki",
-    "room": "B1-103_ï®óùé¿å±é∫"
+    "room": "B1-103_Áâ©ÁêÜÂÆüÈ®ìÂÆ§"
   },
   "B1011003a": {
     "id": "B1011003a",
@@ -140,7 +140,7 @@
     "units": "3",
     "grade": "B1",
     "staff": "OKAMOTO Takuya",
-    "room": null
+    "room": "A-105"
   },
   "B1013001b": {
     "id": "B1013001b",
@@ -153,7 +153,7 @@
     "units": "3",
     "grade": "B1",
     "staff": "SUZUKI Koutarou, KANAZAWA Yasushi",
-    "room": null
+    "room": "A-106"
   },
   "B1013002a": {
     "id": "B1013002a",
@@ -166,7 +166,7 @@
     "units": "1.5",
     "grade": "B1",
     "staff": "SAITOH Taiki, MATSUI Tomoya",
-    "room": null
+    "room": "A-105"
   },
   "B1013002b": {
     "id": "B1013002b",
@@ -179,7 +179,7 @@
     "units": "1.5",
     "grade": "B1",
     "staff": "OKAMOTO Takuya",
-    "room": null
+    "room": "A-106"
   },
   "B1013003a": {
     "id": "B1013003a",
@@ -244,7 +244,7 @@
     "units": "1.5",
     "grade": "B1",
     "staff": "YATSUI Takashi",
-    "room": null
+    "room": "A-105"
   },
   "B1013006b": {
     "id": "B1013006b",
@@ -257,7 +257,7 @@
     "units": "1.5",
     "grade": "B1",
     "staff": "CHOI YONG JOON",
-    "room": null
+    "room": "A-106"
   },
   "B1013007a": {
     "id": "B1013007a",
@@ -296,7 +296,7 @@
     "units": "1.5",
     "grade": "B2",
     "staff": "OKADA Hiroshi",
-    "room": null
+    "room": "A-109"
   },
   "B1013009a": {
     "id": "B1013009a",
@@ -309,7 +309,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "OKAMOTO Shunya, KISHIMOTO Tatsunori, KURAISHI Takashi, NAKADA Shotaro",
-    "room": null
+    "room": "B1-103_Áâ©ÁêÜÂÆüÈ®ìÂÆ§"
   },
   "B1013009b": {
     "id": "B1013009b",
@@ -321,8 +321,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B1",
-    "staff": "TAKIKAWA Hirofumi, PIEDRA Lorenzana, HASAN Maodudul, SUGIMOTO Shunji, KAWASHIMA Tomohiro",
-    "room": null
+    "staff": "TAKIKAWA Hirofumi, KAWASHIMA Tomohiro, SUGIMOTO Shunji, PIEDRA Lorenzana, KUON Ikuhyon, HASAN Maodudul, KOMATSU Kazuki",
+    "room": "B1-103_Áâ©ÁêÜÂÆüÈ®ìÂÆ§"
   },
   "B1013011a": {
     "id": "B1013011a",
@@ -335,7 +335,7 @@
     "units": "1.5",
     "grade": "B1",
     "staff": "MUTO Hiroyuki",
-    "room": null
+    "room": "A-105"
   },
   "B1013011b": {
     "id": "B1013011b",
@@ -348,7 +348,7 @@
     "units": "1.5",
     "grade": "B1",
     "staff": "TAN WAI KIAN",
-    "room": null
+    "room": "A-106"
   },
   "B10130120": {
     "id": "B10130120",
@@ -374,7 +374,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "MUTO Hiroyuki, HIKIMA Kazuhiro, SATOH Hirohisa, FUJISAWA Ikuhide, NAKAGAMI Koki, OHKITA Hironobu, TAN WAI KIAN",
-    "room": null
+    "room": "B1-104_ÂåñÂ≠¶ÂÆüÈ®ìÂÆ§"
   },
   "B10130140": {
     "id": "B10130140",
@@ -387,7 +387,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "EKI Toshihiko",
-    "room": null
+    "room": "A-205"
   },
   "B10130160": {
     "id": "B10130160",
@@ -400,7 +400,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "HOSHI Hiroyuki",
-    "room": null
+    "room": "A-114"
   },
   "B10130180": {
     "id": "B10130180",
@@ -413,7 +413,7 @@
     "units": "1.5",
     "grade": "B2",
     "staff": "TAN WAI KIAN, OKADA Hiroshi, MUTO Hiroyuki",
-    "room": null
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B10210040": {
     "id": "B10210040",
@@ -439,7 +439,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "YUKAWA Harutoshi",
-    "room": "ëÃàÁäŸ"
+    "room": "‰ΩìËÇ≤È§®"
   },
   "B1021005b": {
     "id": "B1021005b",
@@ -452,7 +452,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "HIEDA Mutsuko, YUKAWA Harutoshi",
-    "room": "ëÃàÁäŸ"
+    "room": "‰ΩìËÇ≤È§®"
   },
   "B1021005c": {
     "id": "B1021005c",
@@ -465,7 +465,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "HIEDA Mutsuko, SUZUKI Yasuhiro",
-    "room": "ëÃàÁäŸ"
+    "room": "‰ΩìËÇ≤È§®"
   },
   "B10231260": {
     "id": "B10231260",
@@ -478,7 +478,7 @@
     "units": "2",
     "grade": "B1, B2",
     "staff": "NAKAMURA Daisuke",
-    "room": null
+    "room": "A-114"
   },
   "B10231270": {
     "id": "B10231270",
@@ -491,7 +491,7 @@
     "units": "2",
     "grade": "B1, B2",
     "staff": "NAKAYAMA Shigeru",
-    "room": null
+    "room": "A-114"
   },
   "B10231280": {
     "id": "B10231280",
@@ -517,7 +517,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "KAMAKURA Toshimitsu",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B10232080": {
     "id": "B10232080",
@@ -543,7 +543,7 @@
     "units": "2",
     "grade": "B1, B2",
     "staff": "MIYAMOTO Hiroyuki",
-    "room": null
+    "room": "A2-301"
   },
   "B10232260": {
     "id": "B10232260",
@@ -569,7 +569,7 @@
     "units": "2",
     "grade": "B1, B2",
     "staff": "FUJII Toru",
-    "room": null
+    "room": "A-311"
   },
   "B10233120": {
     "id": "B10233120",
@@ -582,7 +582,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "HIYAGON Hitoshi",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B10233180": {
     "id": "B10233180",
@@ -608,7 +608,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "IZUMI Tsukasa",
-    "room": null
+    "room": "A-105"
   },
   "B1023322a": {
     "id": "B1023322a",
@@ -712,7 +712,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "To be assigned",
-    "room": null
+    "room": "A-108"
   },
   "B1023342a": {
     "id": "B1023342a",
@@ -764,7 +764,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "Levin David Michael",
-    "room": null
+    "room": "A-108"
   },
   "B10233440": {
     "id": "B10233440",
@@ -816,7 +816,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TSUKUDA Ryuichiro",
-    "room": null
+    "room": "A-312"
   },
   "B10233500": {
     "id": "B10233500",
@@ -842,7 +842,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "IIO Keishi",
-    "room": null
+    "room": "A1-201"
   },
   "B10233520": {
     "id": "B10233520",
@@ -855,7 +855,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TSUKUDA Ryuichiro",
-    "room": null
+    "room": "A-108"
   },
   "B10233530": {
     "id": "B10233530",
@@ -907,7 +907,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SHAKOUCHI Yuri",
-    "room": null
+    "room": "A-105"
   },
   "B10233571": {
     "id": "B10233571",
@@ -933,7 +933,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "RYO Shiei",
-    "room": null
+    "room": "A-106"
   },
   "B10233600": {
     "id": "B10233600",
@@ -946,7 +946,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MURAMATSU Yukiko",
-    "room": null
+    "room": "A-205"
   },
   "B10233610": {
     "id": "B10233610",
@@ -959,7 +959,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KOJIMA Toshio",
-    "room": null
+    "room": "A2-201"
   },
   "B1023362a": {
     "id": "B1023362a",
@@ -998,7 +998,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "HARADA Ichiro",
-    "room": null
+    "room": "A1-301"
   },
   "B10233640": {
     "id": "B10233640",
@@ -1011,7 +1011,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "NAKAMURA Daisuke",
-    "room": null
+    "room": "A-312"
   },
   "B10233650": {
     "id": "B10233650",
@@ -1024,7 +1024,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "NAKAMURA Daisuke",
-    "room": null
+    "room": "A-312"
   },
   "B10233680": {
     "id": "B10233680",
@@ -1063,7 +1063,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "RYAN Eugene",
-    "room": null
+    "room": "A-207"
   },
   "B10233730": {
     "id": "B10233730",
@@ -1089,7 +1089,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "IWAUCHI Shotaro",
-    "room": null
+    "room": "A-311"
   },
   "B10234040": {
     "id": "B10234040",
@@ -1102,7 +1102,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MIYAMOTO Hiroyuki",
-    "room": null
+    "room": "A-101"
   },
   "B10234050": {
     "id": "B10234050",
@@ -1193,7 +1193,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KURODA Koji",
-    "room": null
+    "room": "A2-301"
   },
   "B10234220": {
     "id": "B10234220",
@@ -1206,7 +1206,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "FUJII Toru",
-    "room": null
+    "room": "A1-201"
   },
   "B10234250": {
     "id": "B10234250",
@@ -1245,7 +1245,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "YAMASHITA Ryoichi",
-    "room": null
+    "room": "A-208"
   },
   "B10234320": {
     "id": "B10234320",
@@ -1258,7 +1258,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "YAMASHITA Ryoichi",
-    "room": null
+    "room": "A-208"
   },
   "B10234350": {
     "id": "B10234350",
@@ -1273,6 +1273,19 @@
     "staff": "TSUJIMURA Taiki",
     "room": "A2-201"
   },
+  "B10234360": {
+    "id": "B10234360",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B10234360&je_cd=1",
+    "name": "Advanced Sociology 1",
+    "area": "Social Sciences",
+    "term": "Spring term",
+    "faculty": "Undergraduate Program",
+    "required": "Elective",
+    "units": "2",
+    "grade": "B3",
+    "staff": "YAMANE Mari",
+    "room": "A1-201"
+  },
   "B10234370": {
     "id": "B10234370",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B10234370&je_cd=1",
@@ -1284,7 +1297,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TSUJIMURA Taiki",
-    "room": null
+    "room": "A1-101"
   },
   "B10234380": {
     "id": "B10234380",
@@ -1297,7 +1310,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "HATAYAMA Yosuke",
-    "room": null
+    "room": "A1-101"
   },
   "B10234420": {
     "id": "B10234420",
@@ -1310,7 +1323,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SAI Banri",
-    "room": null
+    "room": "A2-301"
   },
   "B10234430": {
     "id": "B10234430",
@@ -1323,7 +1336,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SAI Banri",
-    "room": null
+    "room": "A2-101"
   },
   "B10234440": {
     "id": "B10234440",
@@ -1349,7 +1362,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MIYAMOTO Hiroyuki",
-    "room": null
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B10234460": {
     "id": "B10234460",
@@ -1361,8 +1374,8 @@
     "required": "Elective",
     "units": "2",
     "grade": "B3",
-    "staff": "To be assigned",
-    "room": null
+    "staff": "TAIRA Yuko",
+    "room": "A2-101"
   },
   "B10234470": {
     "id": "B10234470",
@@ -1388,7 +1401,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "FUJII Toru",
-    "room": null
+    "room": "A-101"
   },
   "B10234490": {
     "id": "B10234490",
@@ -1401,7 +1414,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NOGUCHI Yutaro",
-    "room": null
+    "room": "A1-101"
   },
   "B10235190": {
     "id": "B10235190",
@@ -1427,7 +1440,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "SUZUKI Yuko",
-    "room": null
+    "room": "A-303"
   },
   "B1023601a": {
     "id": "B1023601a",
@@ -1440,7 +1453,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "IWAUCHI Shotaro",
-    "room": "A-202"
+    "room": "A-105"
   },
   "B1023601b": {
     "id": "B1023601b",
@@ -1453,7 +1466,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "OKADA Hiroshi",
-    "room": "A-203"
+    "room": "A-105"
   },
   "B1023601c": {
     "id": "B1023601c",
@@ -1466,7 +1479,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "NAKAMURA Daisuke",
-    "room": "A-207"
+    "room": "A-105"
   },
   "B1023601d": {
     "id": "B1023601d",
@@ -1479,7 +1492,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "HIEDA Mutsuko",
-    "room": "A-301"
+    "room": "A-105"
   },
   "B1033022a": {
     "id": "B1033022a",
@@ -1504,7 +1517,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B1",
-    "staff": "ASAI Ryosaku, Daniel E. Devolin, IWAUCHI Shotaro",
+    "staff": "Daniel E. Devolin",
     "room": "A-106"
   },
   "B1033022c": {
@@ -1570,7 +1583,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "Levin David Michael",
-    "room": null
+    "room": "A-208"
   },
   "B1033025b": {
     "id": "B1033025b",
@@ -1583,7 +1596,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "KEVIN LIM Michael",
-    "room": null
+    "room": "A-209"
   },
   "B1033025c": {
     "id": "B1033025c",
@@ -1596,7 +1609,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "DARREN J. LeClere",
-    "room": null
+    "room": "A-207"
   },
   "B1033026a": {
     "id": "B1033026a",
@@ -1816,7 +1829,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "ASAI Ryosaku, Daniel E. Devolin, IWAUCHI Shotaro",
+    "staff": "Daniel E. Devolin",
     "room": "A-201"
   },
   "B1033026I": {
@@ -1829,7 +1842,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "ASAI Ryosaku, Daniel E. Devolin, IWAUCHI Shotaro",
+    "staff": "Daniel E. Devolin",
     "room": "A-201"
   },
   "B1033026J": {
@@ -1842,7 +1855,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "KATO Mihoko, SHAKOUCHI Yuri, IWAUCHI Shotaro",
+    "staff": "KATO Mihoko",
     "room": "A-205"
   },
   "B1033026j": {
@@ -1895,7 +1908,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "DARREN J. LeClere",
-    "room": null
+    "room": "A-111"
   },
   "B1033027b": {
     "id": "B1033027b",
@@ -1908,7 +1921,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "DARREN J. LeClere",
-    "room": null
+    "room": "A-111"
   },
   "B1033027e": {
     "id": "B1033027e",
@@ -1921,7 +1934,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "Gabriel Fernandez",
-    "room": null
+    "room": "A-209"
   },
   "B1033027f": {
     "id": "B1033027f",
@@ -1934,7 +1947,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "Gabriel Fernandez",
-    "room": null
+    "room": "A-209"
   },
   "B1033027g": {
     "id": "B1033027g",
@@ -1947,7 +1960,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "IGARASHI Masae",
-    "room": null
+    "room": "A-207"
   },
   "B1033027h": {
     "id": "B1033027h",
@@ -1960,7 +1973,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "IGARASHI Masae",
-    "room": null
+    "room": "A-207"
   },
   "B1033027i": {
     "id": "B1033027i",
@@ -1973,7 +1986,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ISHIGURO Hitomi",
-    "room": null
+    "room": "A-201"
   },
   "B1033027j": {
     "id": "B1033027j",
@@ -1986,7 +1999,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ISHIGURO Hitomi",
-    "room": null
+    "room": "A-201"
   },
   "B1033027k": {
     "id": "B1033027k",
@@ -1999,7 +2012,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "UMEDA Yasushi",
-    "room": null
+    "room": "A-208"
   },
   "B1033027l": {
     "id": "B1033027l",
@@ -2012,7 +2025,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "UMEDA Yasushi",
-    "room": null
+    "room": "A-208"
   },
   "B1033032a": {
     "id": "B1033032a",
@@ -2064,7 +2077,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "SUZUKI,MARY Marie",
-    "room": null
+    "room": "A-203"
   },
   "B1033033b": {
     "id": "B1033033b",
@@ -2077,7 +2090,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "RYAN Eugene",
-    "room": null
+    "room": "A-106"
   },
   "B1033033c": {
     "id": "B1033033c",
@@ -2090,7 +2103,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "AKIMOTO Megumi",
-    "room": null
+    "room": "A-201"
   },
   "B1033034a": {
     "id": "B1033034a",
@@ -2115,7 +2128,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "ASAI Ryosaku, IGARASHI Masae, IWAUCHI Shotaro",
+    "staff": "IGARASHI Masae",
     "room": "A-201"
   },
   "B1033034c": {
@@ -2193,7 +2206,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "KATO Mihoko, SHAKOUCHI Yuri, IWAUCHI Shotaro",
+    "staff": "KATO Mihoko",
     "room": "A-205"
   },
   "B1033034i": {
@@ -2246,7 +2259,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "SUZUKI,MARY Marie",
-    "room": null
+    "room": "A-203"
   },
   "B1033035b": {
     "id": "B1033035b",
@@ -2258,8 +2271,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "ASAI Ryosaku, IGARASHI Masae, IWAUCHI Shotaro",
-    "room": null
+    "staff": "IGARASHI Masae",
+    "room": "A-202"
   },
   "B1033035c": {
     "id": "B1033035c",
@@ -2272,7 +2285,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "RYO Shiei",
-    "room": null
+    "room": "A-106"
   },
   "B1033035d": {
     "id": "B1033035d",
@@ -2285,7 +2298,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "Levin David Michael",
-    "room": null
+    "room": "A-108"
   },
   "B1033035e": {
     "id": "B1033035e",
@@ -2298,7 +2311,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "SHAKOUCHI Yuri",
-    "room": null
+    "room": "A-105"
   },
   "B1033035f": {
     "id": "B1033035f",
@@ -2311,7 +2324,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "RYAN Eugene",
-    "room": null
+    "room": "A-109"
   },
   "B1033035g": {
     "id": "B1033035g",
@@ -2323,8 +2336,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "IWAHASHI Hiroyuki, IWAUCHI Shotaro",
-    "room": null
+    "staff": "IWAHASHI Hiroyuki",
+    "room": "A-312"
   },
   "B1033035h": {
     "id": "B1033035h",
@@ -2336,8 +2349,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "KATO Mihoko, SHAKOUCHI Yuri, IWAUCHI Shotaro",
-    "room": null
+    "staff": "KATO Mihoko",
+    "room": "A-208"
   },
   "B1033035i": {
     "id": "B1033035i",
@@ -2350,7 +2363,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "IWAUCHI Shotaro",
-    "room": null
+    "room": "A-205"
   },
   "B1033035j": {
     "id": "B1033035j",
@@ -2363,7 +2376,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "OKI Hiromi",
-    "room": null
+    "room": "A-209"
   },
   "B1033035k": {
     "id": "B1033035k",
@@ -2376,7 +2389,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "AKIMOTO Megumi",
-    "room": null
+    "room": "A-201"
   },
   "B1033036q": {
     "id": "B1033036q",
@@ -2401,7 +2414,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B4",
-    "staff": "ASAI Ryosaku, IGARASHI Masae, IWAUCHI Shotaro",
+    "staff": "IGARASHI Masae",
     "room": "A-109"
   },
   "B1033037a": {
@@ -2454,7 +2467,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "Miller Michael",
-    "room": null
+    "room": "A-208"
   },
   "B1033038b": {
     "id": "B1033038b",
@@ -2467,7 +2480,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "Levin David Michael",
-    "room": null
+    "room": "A-203"
   },
   "B1033038c": {
     "id": "B1033038c",
@@ -2479,8 +2492,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B2",
-    "staff": "IWAHASHI Hiroyuki, IWAUCHI Shotaro",
-    "room": null
+    "staff": "IWAHASHI Hiroyuki",
+    "room": "A-202"
   },
   "B10330400": {
     "id": "B10330400",
@@ -2506,7 +2519,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "IWAHASHI Hiroyuki",
-    "room": null
+    "room": "A-202"
   },
   "B1033041d": {
     "id": "B1033041d",
@@ -2519,7 +2532,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "Miller Michael",
-    "room": null
+    "room": "A-203"
   },
   "B1033041f": {
     "id": "B1033041f",
@@ -2532,7 +2545,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "SUZUKI,MARY Marie",
-    "room": null
+    "room": "A-109"
   },
   "B1033041h": {
     "id": "B1033041h",
@@ -2545,7 +2558,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "SHAKOUCHI Yuri",
-    "room": null
+    "room": "A-208"
   },
   "B1033041j": {
     "id": "B1033041j",
@@ -2557,8 +2570,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "IWAUCHI Shotaro, RYO Shiei",
-    "room": null
+    "staff": "RYO Shiei",
+    "room": "A-110"
   },
   "B10332010": {
     "id": "B10332010",
@@ -2584,7 +2597,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "UENISHI Akio",
-    "room": null
+    "room": "A-201"
   },
   "B10332050": {
     "id": "B10332050",
@@ -2610,7 +2623,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "YAMAZAKI Yuka",
-    "room": null
+    "room": "A-105"
   },
   "B1033207b": {
     "id": "B1033207b",
@@ -2623,7 +2636,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "NAKAMURA Daisuke",
-    "room": null
+    "room": "A2-101"
   },
   "B10333010": {
     "id": "B10333010",
@@ -2649,7 +2662,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "Oh Shinsei",
-    "room": null
+    "room": "A-105"
   },
   "B10333050": {
     "id": "B10333050",
@@ -2675,7 +2688,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "Oh Shinsei",
-    "room": null
+    "room": "A-311"
   },
   "B1033307b": {
     "id": "B1033307b",
@@ -2688,7 +2701,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "Zhao Honggang",
-    "room": null
+    "room": "A2-301"
   },
   "B1041501a": {
     "id": "B1041501a",
@@ -2727,7 +2740,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASADA Sukekazu, UCHIDA Norio",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B1042503b": {
     "id": "B1042503b",
@@ -2740,7 +2753,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASADA Sukekazu, UCHIDA Norio",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B1042503c": {
     "id": "B1042503c",
@@ -2753,7 +2766,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASADA Sukekazu, UCHIDA Norio",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B1042503d": {
     "id": "B1042503d",
@@ -2766,7 +2779,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASADA Sukekazu, UCHIDA Norio",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B1042504a": {
     "id": "B1042504a",
@@ -2778,7 +2791,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B2",
-    "staff": "IZUMI Tsukasa, MIZUKI Ichie",
+    "staff": "MIZUKI Ichie",
     "room": "A-201"
   },
   "B1042504b": {
@@ -2869,7 +2882,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3, B4",
-    "staff": "IZUMI Tsukasa, WATANABE Akio",
+    "staff": "WATANABE Akio",
     "room": "A-201"
   },
   "B1042504j": {
@@ -2921,8 +2934,8 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "IZUMI Tsukasa, MIZUKI Ichie",
-    "room": null
+    "staff": "MIZUKI Ichie",
+    "room": "A-201"
   },
   "B1042504o": {
     "id": "B1042504o",
@@ -2935,7 +2948,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "HIBINO Hironobu",
-    "room": null
+    "room": "A-208"
   },
   "B1042504p": {
     "id": "B1042504p",
@@ -2948,7 +2961,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "YAMADA Yoko",
-    "room": null
+    "room": "A-209"
   },
   "B1042504r": {
     "id": "B1042504r",
@@ -2961,7 +2974,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SUZUKI Yuko",
-    "room": null
+    "room": "A-207"
   },
   "B1042504s": {
     "id": "B1042504s",
@@ -2973,8 +2986,8 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "IZUMI Tsukasa, To be assigned",
-    "room": null
+    "staff": "To be assigned",
+    "room": "A-201"
   },
   "B1042504t": {
     "id": "B1042504t",
@@ -2987,7 +3000,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "HIBINO Hironobu",
-    "room": null
+    "room": "A-109"
   },
   "B1042504u": {
     "id": "B1042504u",
@@ -3000,7 +3013,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "WATANABE Akio",
-    "room": null
+    "room": "A-301"
   },
   "B1042504v": {
     "id": "B1042504v",
@@ -3013,7 +3026,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MIZUKI Ichie",
-    "room": null
+    "room": "A-309"
   },
   "B1042505a": {
     "id": "B1042505a",
@@ -3078,7 +3091,7 @@
     "units": "1",
     "grade": "B2, B3",
     "staff": "TAKIKAWA Hirofumi, DAIMON Hiroyuki, TAKAYAMA Kotaro, ICHITSUBO Makoto, YOKOTA Kuriko, YAMAUCHI Takahiro, TOKAIRIN Takayuki, SUMINO Haruhiko",
-    "room": "A2-101"
+    "room": "A-101"
   },
   "B1042506b": {
     "id": "B1042506b",
@@ -3091,7 +3104,7 @@
     "units": "1",
     "grade": "B2, B3",
     "staff": "TAKIKAWA Hirofumi, DAIMON Hiroyuki, TAKAYAMA Kotaro, ICHITSUBO Makoto, YOKOTA Kuriko, YAMAUCHI Takahiro, TOKAIRIN Takayuki, SUMINO Haruhiko",
-    "room": "A2-101"
+    "room": "A-101"
   },
   "B1042506c": {
     "id": "B1042506c",
@@ -3104,7 +3117,7 @@
     "units": "1",
     "grade": "B2, B3",
     "staff": "TAKIKAWA Hirofumi, DAIMON Hiroyuki, TAKAYAMA Kotaro, ICHITSUBO Makoto, YOKOTA Kuriko, YAMAUCHI Takahiro, TOKAIRIN Takayuki, SUMINO Haruhiko",
-    "room": "A2-101"
+    "room": "A-101"
   },
   "B1042506d": {
     "id": "B1042506d",
@@ -3130,7 +3143,7 @@
     "units": "1",
     "grade": "B2, B3",
     "staff": "KAKIUCHI Yohei",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫, ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B1042507b": {
     "id": "B1042507b",
@@ -3143,7 +3156,7 @@
     "units": "1",
     "grade": "B2, B3",
     "staff": "KAKIUCHI Yohei",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫, ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B1042507c": {
     "id": "B1042507c",
@@ -3156,7 +3169,7 @@
     "units": "1",
     "grade": "B2, B3",
     "staff": "KAKIUCHI Yohei",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫, ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B1042507d": {
     "id": "B1042507d",
@@ -3169,7 +3182,7 @@
     "units": "1",
     "grade": "B2, B3",
     "staff": "KAKIUCHI Yohei",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫, ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B1042508a": {
     "id": "B1042508a",
@@ -3181,7 +3194,7 @@
     "required": "Required",
     "units": "1",
     "grade": "B2, B3",
-    "staff": "YOSHIDA Sachiko, MATSUO Kojiro",
+    "staff": "YOSHIDA Sachiko, MATSUO Kojiro, OGURA Yuki, TANAKA Yujiro",
     "room": "A2-201"
   },
   "B1042508b": {
@@ -3207,7 +3220,7 @@
     "required": "Required",
     "units": "1",
     "grade": "B2, B3",
-    "staff": "YOSHIDA Sachiko, MATSUO Kojiro",
+    "staff": "YOSHIDA Sachiko, MATSUO Kojiro, OGURA Yuki, TANAKA Yujiro",
     "room": "A2-201"
   },
   "B1042508d": {
@@ -3260,7 +3273,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "YOKOZAWA Tomoe",
-    "room": null
+    "room": "A-301"
   },
   "B1043511b": {
     "id": "B1043511b",
@@ -3273,7 +3286,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "URANO Moyu",
-    "room": null
+    "room": "A-203"
   },
   "B1043512a": {
     "id": "B1043512a",
@@ -3312,7 +3325,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "MURAMATSU Yukiko",
-    "room": null
+    "room": "A-302"
   },
   "B1043513b": {
     "id": "B1043513b",
@@ -3325,7 +3338,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "MURAMATSU Yukiko",
-    "room": null
+    "room": "A-302"
   },
   "B1043514a": {
     "id": "B1043514a",
@@ -3377,7 +3390,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "ISHIGE Junko",
-    "room": null
+    "room": "A-202"
   },
   "B1052002a": {
     "id": "B1052002a",
@@ -3468,7 +3481,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "KIMURA Masato",
-    "room": null
+    "room": "A-108"
   },
   "B11510060": {
     "id": "B11510060",
@@ -3481,7 +3494,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "ABE Yohei, HIRUTA Toshiki",
-    "room": null
+    "room": "D-202"
   },
   "B11510070": {
     "id": "B11510070",
@@ -3520,7 +3533,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "1kei kyomu Iin-S, UCHIYAMA Naoki",
-    "room": null
+    "room": "A-208"
   },
   "B11510100": {
     "id": "B11510100",
@@ -3533,7 +3546,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "HIRUTA Toshiki",
-    "room": null
+    "room": "D-202"
   },
   "B11510110": {
     "id": "B11510110",
@@ -3559,7 +3572,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "KAWABATA Akio",
-    "room": null
+    "room": "„É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B11530030": {
     "id": "B11530030",
@@ -3572,7 +3585,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "OKADA Hiroshi",
-    "room": null
+    "room": "A1-201"
   },
   "B11530040": {
     "id": "B11530040",
@@ -3624,7 +3637,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "SUZUKI Takashi",
-    "room": null
+    "room": "A-207"
   },
   "B11530090": {
     "id": "B11530090",
@@ -3650,7 +3663,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "IIDA Akiyoshi",
-    "room": null
+    "room": "A-108"
   },
   "B11530110": {
     "id": "B11530110",
@@ -3663,7 +3676,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "IIDA Akiyoshi",
-    "room": null
+    "room": "A-108"
   },
   "B11530120": {
     "id": "B11530120",
@@ -3689,7 +3702,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "TAKEICHI Yoshinori",
-    "room": null
+    "room": "A2-301"
   },
   "B11530140": {
     "id": "B11530140",
@@ -3702,7 +3715,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "UCHIYAMA Naoki",
-    "room": null
+    "room": "A-111"
   },
   "B11530150": {
     "id": "B11530150",
@@ -3728,7 +3741,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "NAGAI Moeto",
-    "room": null
+    "room": "A-209"
   },
   "B11530170": {
     "id": "B11530170",
@@ -3741,7 +3754,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "NAGAI Moeto",
-    "room": null
+    "room": "A-209"
   },
   "B11530180": {
     "id": "B11530180",
@@ -3767,7 +3780,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "KOBAYASHI Masakazu, TODAKA Yoshikazu",
-    "room": null
+    "room": "A-108"
   },
   "B11610021": {
     "id": "B11610021",
@@ -3936,7 +3949,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TODAKA Yoshikazu, TAKAHASHI Junji",
-    "room": null
+    "room": "A-101"
   },
   "B11610170": {
     "id": "B11610170",
@@ -4027,7 +4040,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "ADACHI Tadaharu",
-    "room": null
+    "room": "A-101"
   },
   "B11620040": {
     "id": "B11620040",
@@ -4053,7 +4066,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TAKAYAMA Kotaro",
-    "room": null
+    "room": "A-101"
   },
   "B11620090": {
     "id": "B11620090",
@@ -4079,7 +4092,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "YOKOYAMA Hiroshi",
-    "room": null
+    "room": "A-101"
   },
   "B11620200": {
     "id": "B11620200",
@@ -4092,7 +4105,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KAWAMURA Shozo",
-    "room": null
+    "room": "A-101"
   },
   "B11620210": {
     "id": "B11620210",
@@ -4105,7 +4118,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MIURA Hiromi, OBA Yojiro",
-    "room": null
+    "room": "A-101"
   },
   "B11620220": {
     "id": "B11620220",
@@ -4131,7 +4144,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SUZUKI Takashi",
-    "room": null
+    "room": "A-101"
   },
   "B11620240": {
     "id": "B11620240",
@@ -4240,7 +4253,7 @@
   "B11622070": {
     "id": "B11622070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B11622070&je_cd=1",
-    "name": "Reliability EngineeringÅ@for Materials",
+    "name": "Reliability Engineering„ÄÄfor Materials",
     "area": "Mechanical Engineering II",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
@@ -4352,7 +4365,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "ADACHI Tadaharu, NAKAMURA Yuji, OKAMOTO Shunya, SEKISHITA Nobumasa",
-    "room": null
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-Á¨¨ÔºíÁ´ØÊú´ÂÆ§"
   },
   "B11630040": {
     "id": "B11630040",
@@ -4378,7 +4391,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "YASUI Toshiaki, TODAKA Yoshikazu",
-    "room": null
+    "room": "A-101"
   },
   "B11630080": {
     "id": "B11630080",
@@ -4391,7 +4404,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "YASUI Toshiaki, OBA Yojiro",
-    "room": null
+    "room": "A-101"
   },
   "B11630100": {
     "id": "B11630100",
@@ -4404,7 +4417,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "DOI Kentaro",
-    "room": null
+    "room": "A1-101"
   },
   "B11630110": {
     "id": "B11630110",
@@ -4443,7 +4456,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SATO Kaiji",
-    "room": null
+    "room": "A1-101"
   },
   "B11630150": {
     "id": "B11630150",
@@ -4469,7 +4482,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "HARADA Koji",
-    "room": null
+    "room": "A1-301"
   },
   "B11630170": {
     "id": "B11630170",
@@ -4573,7 +4586,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TODAKA Yoshikazu, TAKAHASHI Junji",
-    "room": null
+    "room": "A-101"
   },
   "B12510080": {
     "id": "B12510080",
@@ -4612,7 +4625,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "FUTAGAWA Masato",
-    "room": null
+    "room": "A-205"
   },
   "B12510130": {
     "id": "B12510130",
@@ -4625,7 +4638,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "UCHIDA Hironaga",
-    "room": null
+    "room": "C1-404"
   },
   "B12510140": {
     "id": "B12510140",
@@ -4637,7 +4650,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B2",
-    "staff": "TAKAHASHI Kazuhiro, KAWASHIMA Tomohiro, HIKIMA Kazuhiro, KATSUMI Ryota, KOMATSU Kazuki, HASAN Maodudul",
+    "staff": "KAWASHIMA Tomohiro, KUON Ikuhyon, SATO Takamasa, KOMATSU Kazuki, HIKIMA Kazuhiro",
     "room": "C1-301"
   },
   "B12510150": {
@@ -4664,7 +4677,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "TAMURA Masaya",
-    "room": null
+    "room": "A-207"
   },
   "B12510170": {
     "id": "B12510170",
@@ -4676,7 +4689,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B2",
-    "staff": "SUDO Minoru, 2kei kyomu Iin-S",
+    "staff": "SUDO Minoru",
     "room": "A-202"
   },
   "B12510180": {
@@ -4703,7 +4716,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "ICHIKAWA Shuichi",
-    "room": null
+    "room": "A2-201"
   },
   "B12510200": {
     "id": "B12510200",
@@ -4716,7 +4729,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "AIDA Shin",
-    "room": null
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§"
   },
   "B12510210": {
     "id": "B12510210",
@@ -4729,7 +4742,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "HARADA Koji",
-    "room": null
+    "room": "A1-301"
   },
   "B12530060": {
     "id": "B12530060",
@@ -4768,7 +4781,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "MURAKAMI Yoshinobu",
-    "room": null
+    "room": "A-205"
   },
   "B12530100": {
     "id": "B12530100",
@@ -4781,7 +4794,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "MURAKAMI Yoshinobu, INADA Ryoji",
-    "room": null
+    "room": "A-111"
   },
   "B12530130": {
     "id": "B12530130",
@@ -4794,7 +4807,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "TAKEUCHI Keigo, SHAO Xun",
-    "room": null
+    "room": "A-311"
   },
   "B12530150": {
     "id": "B12530150",
@@ -4807,7 +4820,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "TOJO Tomohiro, KAWASHIMA Tomohiro",
-    "room": null
+    "room": "A-207"
   },
   "B12530160": {
     "id": "B12530160",
@@ -4846,7 +4859,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "MURAKAMI Yoshinobu, TOJO Tomohiro",
-    "room": null
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B12610110": {
     "id": "B12610110",
@@ -4871,7 +4884,7 @@
     "required": "Required",
     "units": "4",
     "grade": "B3",
-    "staff": "TAKAHASHI Kazuhiro, KAWASHIMA Tomohiro, HIKIMA Kazuhiro, KATSUMI Ryota, PIEDRA Lorenzana, KOMATSU Kazuki, TOJO Tomohiro, UCHIDA Hironaga, NAKAMURA Yuichi, HASAN Maodudul, ICHIKAWA Shuichi, SHAO Xun",
+    "staff": "KAWASHIMA Tomohiro, PIEDRA Lorenzana, KUON Ikuhyon, TOJO Tomohiro, SATO Takamasa, ICHIKAWA Shuichi, SHAO Xun, HAGA Nozomi, HASAN Maodudul, KOMATSU Kazuki, YATSUI Takashi, HIKIMA Kazuhiro",
     "room": null
   },
   "B12610130": {
@@ -4937,7 +4950,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "TAKAHASHI Kazuhiro",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B12610180": {
     "id": "B12610180",
@@ -5002,7 +5015,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "NAKAMURA Yuichi",
-    "room": null
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B12610230": {
     "id": "B12610230",
@@ -5015,7 +5028,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "ISHIKAWA Yasuhiko, UCHIDA Hironaga",
-    "room": null
+    "room": "A1-101"
   },
   "B12610240": {
     "id": "B12610240",
@@ -5027,8 +5040,8 @@
     "required": "Required",
     "units": "1",
     "grade": "B3",
-    "staff": "To be assigned",
-    "room": null
+    "staff": "SUDO Minoru",
+    "room": "A2-101"
   },
   "B12610250": {
     "id": "B12610250",
@@ -5145,7 +5158,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "INADA Ryoji",
-    "room": null
+    "room": "A2-201"
   },
   "B12620090": {
     "id": "B12620090",
@@ -5158,7 +5171,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "YAMANE Keisuke",
-    "room": null
+    "room": "A2-101"
   },
   "B12620130": {
     "id": "B12620130",
@@ -5171,7 +5184,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "UEHARA Hideyuki",
-    "room": null
+    "room": "A2-101"
   },
   "B12620170": {
     "id": "B12620170",
@@ -5197,7 +5210,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KAWASHIMA Tomohiro, TAKIKAWA Hirofumi",
-    "room": null
+    "room": "A2-101"
   },
   "B12620290": {
     "id": "B12620290",
@@ -5210,7 +5223,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TAMURA Masaya",
-    "room": null
+    "room": "A2-301"
   },
   "B12620300": {
     "id": "B12620300",
@@ -5223,7 +5236,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SAWADA Kazuaki",
-    "room": null
+    "room": "A2-101"
   },
   "B12620320": {
     "id": "B12620320",
@@ -5236,7 +5249,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TAKEUCHI Keigo, HAGA Nozomi",
-    "room": null
+    "room": "A2-101"
   },
   "B12620340": {
     "id": "B12620340",
@@ -5249,7 +5262,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "MUTO Hiroyuki",
-    "room": null
+    "room": "A1-301"
   },
   "B12620350": {
     "id": "B12620350",
@@ -5262,7 +5275,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "KAWAMURA Go",
-    "room": null
+    "room": "A1-301"
   },
   "B12620360": {
     "id": "B12620360",
@@ -5326,7 +5339,7 @@
     "required": "Required",
     "units": "1",
     "grade": "B4",
-    "staff": "2kei kyomu Iin-S, SUDO Minoru",
+    "staff": "SUDO Minoru",
     "room": "A-105"
   },
   "B12621010": {
@@ -5340,7 +5353,7 @@
     "units": "1",
     "grade": "B4",
     "staff": "MATSUDA Atsunori",
-    "room": null
+    "room": "A-110"
   },
   "B12622020": {
     "id": "B12622020",
@@ -5431,7 +5444,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "WATANABE Kazuho",
-    "room": null
+    "room": "A2-101"
   },
   "B12630070": {
     "id": "B12630070",
@@ -5443,7 +5456,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "B4",
-    "staff": "TAKIKAWA Hirofumi, KUBOZUKA Naoaki, MURATA Yoshiaki, HOSOO Michinari, ASAI Hiroshi, To be assigned",
+    "staff": "TAKIKAWA Hirofumi, KUBOZUKA Naoaki, FUJITA Miwako, MURATA Yoshiaki, YABUSHITA Masataka, ASAI Hiroshi, HOSOO Michinari",
     "room": "A1-101"
   },
   "B12630100": {
@@ -5470,7 +5483,7 @@
     "units": "1",
     "grade": "B4",
     "staff": "OHYA Toshiyuki",
-    "room": null
+    "room": "A-208"
   },
   "B12630140": {
     "id": "B12630140",
@@ -5483,7 +5496,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "HAGA Nozomi",
-    "room": null
+    "room": "A-101"
   },
   "B12630150": {
     "id": "B12630150",
@@ -5496,7 +5509,7 @@
     "units": "1",
     "grade": "B4",
     "staff": "IMAI Masafumi",
-    "room": null
+    "room": "A-311"
   },
   "B12630160": {
     "id": "B12630160",
@@ -5548,7 +5561,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "SHAO Xun",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§"
   },
   "B12630200": {
     "id": "B12630200",
@@ -5574,7 +5587,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "HARADA Koji",
-    "room": null
+    "room": "A1-301"
   },
   "B12630220": {
     "id": "B12630220",
@@ -5626,7 +5639,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "TAKAHASHI Kazuhiro",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B12630260": {
     "id": "B12630260",
@@ -5717,7 +5730,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "NAKAMURA Yuichi",
-    "room": null
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B12630330": {
     "id": "B12630330",
@@ -5730,7 +5743,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "ISHIKAWA Yasuhiko, UCHIDA Hironaga",
-    "room": null
+    "room": "A1-101"
   },
   "B12630340": {
     "id": "B12630340",
@@ -5742,8 +5755,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "B3",
-    "staff": "To be assigned",
-    "room": null
+    "staff": "SUDO Minoru",
+    "room": "A2-101"
   },
   "B12630350": {
     "id": "B12630350",
@@ -5756,7 +5769,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "MURAKAMI Yoshinobu, TOJO Tomohiro",
-    "room": null
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B12630360": {
     "id": "B12630360",
@@ -5782,7 +5795,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "MICHELE Dall'Arno",
-    "room": null
+    "room": "A-208"
   },
   "B13510080": {
     "id": "B13510080",
@@ -5795,7 +5808,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "KITAOKA Norihide",
-    "room": null
+    "room": "A-109"
   },
   "B13510090": {
     "id": "B13510090",
@@ -5847,7 +5860,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "AIDA Shin",
-    "room": null
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§"
   },
   "B13510140": {
     "id": "B13510140",
@@ -5873,7 +5886,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "TSUCHIYA Masatoshi",
-    "room": null
+    "room": "A2-201"
   },
   "B13510160": {
     "id": "B13510160",
@@ -5886,7 +5899,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "HARADA Koji",
-    "room": null
+    "room": "A1-301"
   },
   "B13530070": {
     "id": "B13530070",
@@ -5912,7 +5925,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "NAKAUCHI Shigeki, SUGAYA Yasuyuki",
-    "room": null
+    "room": "„É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B13530100": {
     "id": "B13530100",
@@ -5938,7 +5951,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "TAKEUCHI Keigo, SHAO Xun",
-    "room": null
+    "room": "A-311"
   },
   "B13530160": {
     "id": "B13530160",
@@ -5951,7 +5964,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "UEHARA Kazumasa",
-    "room": null
+    "room": "A-207"
   },
   "B13530170": {
     "id": "B13530170",
@@ -5990,7 +6003,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "OKADA Hiroshi",
-    "room": null
+    "room": "A1-201"
   },
   "B13530210": {
     "id": "B13530210",
@@ -6015,7 +6028,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "B2",
-    "staff": "3kei kyomu Iin-S, KITAZAKI Michiteru, SUZUKI Koutarou, MIURA Jun, KURITA Noriyuki, SUGAYA Yasuyuki, FUKUMURA Naohiro",
+    "staff": "3kei kyomu Iin-S, KITAZAKI Michiteru, SUZUKI Koutarou, MIURA Jun, KURITA Noriyuki, SUGAYA Yasuyuki, FUKUMURA Naohiro, NISHIMURA Ryota, MINAMI Tetsuto",
     "room": "A-209"
   },
   "B13610030": {
@@ -6028,7 +6041,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "To be assigned",
+    "staff": "NISHIMURA Ryota",
     "room": "A-101"
   },
   "B13610040": {
@@ -6042,7 +6055,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAUCHI Shigeki",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B13610050": {
     "id": "B13610050",
@@ -6055,7 +6068,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KITAOKA Norihide",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B13610070": {
     "id": "B13610070",
@@ -6068,7 +6081,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KAWABATA Akio",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B13610080": {
     "id": "B13610080",
@@ -6107,7 +6120,7 @@
     "units": "4",
     "grade": "B3",
     "staff": "3kei kyomu Iin-S, SUGIMOTO Shunji, AIDA Shin, HAYASHI Kotaro, HASEGAWA Komei, HINE Kyoko, TAMURA Hideki, WAKABAYASHI Yuko",
-    "room": "ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B13610150": {
     "id": "B13610150",
@@ -6211,7 +6224,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "WATANABE Kazuho",
-    "room": null
+    "room": "A2-101"
   },
   "B13630030": {
     "id": "B13630030",
@@ -6224,7 +6237,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MINAMI Tetsuto",
-    "room": null
+    "room": "A1-101"
   },
   "B13630060": {
     "id": "B13630060",
@@ -6289,7 +6302,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "UMEMURA Kyoji",
-    "room": null
+    "room": "A2-201"
   },
   "B13630170": {
     "id": "B13630170",
@@ -6302,7 +6315,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KURITA Noriyuki",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B13630180": {
     "id": "B13630180",
@@ -6315,7 +6328,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "UEHARA Hideyuki",
-    "room": null
+    "room": "A2-101"
   },
   "B13630190": {
     "id": "B13630190",
@@ -6328,7 +6341,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "FUKUMURA Naohiro",
-    "room": null
+    "room": "A2-101"
   },
   "B13630200": {
     "id": "B13630200",
@@ -6340,7 +6353,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "B4",
-    "staff": "SHINOHARA Toshikazu",
+    "staff": "OKADA Michio",
     "room": "A2-101"
   },
   "B13630210": {
@@ -6354,7 +6367,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SATO Yukinori",
-    "room": null
+    "room": "A1-101"
   },
   "B13630220": {
     "id": "B13630220",
@@ -6367,7 +6380,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MINAMI Tetsuto",
-    "room": null
+    "room": "A1-101"
   },
   "B13630250": {
     "id": "B13630250",
@@ -6380,7 +6393,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SUZUKI Koutarou",
-    "room": null
+    "room": "A1-101"
   },
   "B13630270": {
     "id": "B13630270",
@@ -6393,7 +6406,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "OMURA Ren",
-    "room": null
+    "room": "A2-101"
   },
   "B13630280": {
     "id": "B13630280",
@@ -6406,7 +6419,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "AKIBA Tomoyoshi",
-    "room": null
+    "room": "A1-101"
   },
   "B13630290": {
     "id": "B13630290",
@@ -6420,19 +6433,6 @@
     "grade": "B4",
     "staff": "NAGASE Masayuki",
     "room": "A-208"
-  },
-  "B13630300": {
-    "id": "B13630300",
-    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B13630300&je_cd=1",
-    "name": "Distributed Systems",
-    "area": "Computer Science and Engineering II",
-    "term": "Spring term",
-    "faculty": "Undergraduate Program",
-    "required": "Elective",
-    "units": "2",
-    "grade": "B4",
-    "staff": "OMURA Ren",
-    "room": "A-207"
   },
   "B13630310": {
     "id": "B13630310",
@@ -6471,7 +6471,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MATSUI Toshie",
-    "room": null
+    "room": "A2-101"
   },
   "B13630340": {
     "id": "B13630340",
@@ -6484,7 +6484,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MURAKOSHI Kazushi",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B13630370": {
     "id": "B13630370",
@@ -6497,7 +6497,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "HARADA Koji",
-    "room": null
+    "room": "A1-301"
   },
   "B13630380": {
     "id": "B13630380",
@@ -6561,7 +6561,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "B3",
-    "staff": "To be assigned",
+    "staff": "NISHIMURA Ryota",
     "room": "A-101"
   },
   "B13630460": {
@@ -6575,7 +6575,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAUCHI Shigeki",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B13630470": {
     "id": "B13630470",
@@ -6588,7 +6588,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KITAOKA Norihide",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B13630480": {
     "id": "B13630480",
@@ -6614,7 +6614,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KAWABATA Akio",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B13630510": {
     "id": "B13630510",
@@ -6640,7 +6640,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "SUZUKI Koutarou",
-    "room": "A2-301"
+    "room": "F-101"
   },
   "B13630530": {
     "id": "B13630530",
@@ -6679,7 +6679,7 @@
     "units": "1",
     "grade": "B4",
     "staff": "GOTO Hitoshi",
-    "room": "ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B13630560": {
     "id": "B13630560",
@@ -6692,7 +6692,7 @@
     "units": "1",
     "grade": "B4",
     "staff": "GOTO Hitoshi",
-    "room": "ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B13630570": {
     "id": "B13630570",
@@ -6718,7 +6718,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "TSUCHIYA Masatoshi",
-    "room": null
+    "room": "A2-201"
   },
   "B13630590": {
     "id": "B13630590",
@@ -6731,117 +6731,117 @@
     "units": "1",
     "grade": "B3",
     "staff": "KURIYAMA Shigeru",
-    "room": null
+    "room": "A-205"
   },
   "B14513010": {
     "id": "B14513010",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513010&je_cd=1",
     "name": "Fundamental Physical Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B1",
     "staff": "MATSUMOTO Akihiko",
-    "room": null
+    "room": "A-301"
   },
   "B14513020": {
     "id": "B14513020",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513020&je_cd=1",
     "name": "Fundamental Physical Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B1",
     "staff": "MATSUMOTO Akihiko",
-    "room": null
+    "room": "A-301"
   },
   "B14513030": {
     "id": "B14513030",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513030&je_cd=1",
     "name": "Fundamental Analytical Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B1",
     "staff": "SAITO Yoshihiro",
-    "room": null
+    "room": "A-301"
   },
   "B14513040": {
     "id": "B14513040",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513040&je_cd=1",
     "name": "Fundamental Analytical Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B1",
     "staff": "SAITO Yoshihiro",
-    "room": null
+    "room": "A-301"
   },
   "B14513050": {
     "id": "B14513050",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513050&je_cd=1",
     "name": "Fundamental Inorganic Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B1",
     "staff": "TERO Ryugo",
-    "room": null
+    "room": "A-110"
   },
   "B14513060": {
     "id": "B14513060",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513060&je_cd=1",
     "name": "Fundamental Inorganic Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B1",
     "staff": "TERO Ryugo",
-    "room": null
+    "room": "A-110"
   },
   "B14513070": {
     "id": "B14513070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513070&je_cd=1",
     "name": "Fundamental Organic Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B1",
     "staff": "SHIBATOMI Kazutaka",
-    "room": null
+    "room": "A-301"
   },
   "B14513080": {
     "id": "B14513080",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513080&je_cd=1",
     "name": "Fundamental Organic Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B1",
     "staff": "SHIBATOMI Kazutaka",
-    "room": null
+    "room": "A-301"
   },
   "B14513090": {
     "id": "B14513090",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513090&je_cd=1",
     "name": "Fundamental Life Science 1",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -6854,7 +6854,7 @@
     "id": "B14513100",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513100&je_cd=1",
     "name": "Fundamental Life Science 2",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -6863,11 +6863,24 @@
     "staff": "TANAKA Terumichi",
     "room": "A-202"
   },
+  "B14513130": {
+    "id": "B14513130",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513130&je_cd=1",
+    "name": "Fundamental English for Chemistry and Life Science 1",
+    "area": "Applied Chemistry and Life Science‚Ö†",
+    "term": "Spring1 term",
+    "faculty": "Undergraduate Program",
+    "required": "Required",
+    "units": "0.5",
+    "grade": "B2",
+    "staff": "HIROSE Yu",
+    "room": "A-205"
+  },
   "B14513140": {
     "id": "B14513140",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513140&je_cd=1",
     "name": "Fundamental English for Chemistry and Life Science 2",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -6880,20 +6893,20 @@
     "id": "B14513150",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513150&je_cd=1",
     "name": "Laboratory Experiments in Chemistry and Life Science",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "2",
     "grade": "B1",
     "staff": "HIROSE Yu, ARAKAWA Yuki, OHKITA Hironobu",
-    "room": null
+    "room": "B1-104_ÂåñÂ≠¶ÂÆüÈ®ìÂÆ§"
   },
   "B14513160": {
     "id": "B14513160",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14513160&je_cd=1",
     "name": "Research Project",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -6906,7 +6919,7 @@
     "id": "B14533010",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533010&je_cd=1",
     "name": "Fundamental Physical Chemistry 3",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -6919,7 +6932,7 @@
     "id": "B14533020",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533020&je_cd=1",
     "name": "Fundamental Physical Chemistry 4",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -6932,7 +6945,7 @@
     "id": "B14533030",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533030&je_cd=1",
     "name": "Fundamental Analytical Chemistry 3",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -6945,7 +6958,7 @@
     "id": "B14533040",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533040&je_cd=1",
     "name": "Fundamental Analytical Chemistry 4",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -6958,7 +6971,7 @@
     "id": "B14533050",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533050&je_cd=1",
     "name": "Fundamental Inorganic Chemistry 3",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -6971,7 +6984,7 @@
     "id": "B14533060",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533060&je_cd=1",
     "name": "Fundamental Inorganic Chemistry 4",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -6984,7 +6997,7 @@
     "id": "B14533070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533070&je_cd=1",
     "name": "Fundamental Organic Chemistry 3",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -6997,7 +7010,7 @@
     "id": "B14533080",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533080&je_cd=1",
     "name": "Fundamental Organic Chemistry 4",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7010,46 +7023,46 @@
     "id": "B14533090",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533090&je_cd=1",
     "name": "Fundamental Life Science 3",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B2",
     "staff": "KURITA Hirofumi",
-    "room": null
+    "room": "A-202"
   },
   "B14533100": {
     "id": "B14533100",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533100&je_cd=1",
     "name": "Fundamental Life Science 4",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B2",
     "staff": "KURITA Hirofumi",
-    "room": null
+    "room": "A-202"
   },
   "B14533110": {
     "id": "B14533110",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14533110&je_cd=1",
     "name": "Programming",
-    "area": "Applied Chemistry and Life ScienceáT",
+    "area": "Applied Chemistry and Life Science‚Ö†",
     "term": "Fall term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B2",
     "staff": "KAWABATA Akio",
-    "room": null
+    "room": "„É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B14613010": {
     "id": "B14613010",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613010&je_cd=1",
     "name": "Physical Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7062,7 +7075,7 @@
     "id": "B14613020",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613020&je_cd=1",
     "name": "Physical Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7075,7 +7088,7 @@
     "id": "B14613030",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613030&je_cd=1",
     "name": "Analytical Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7088,7 +7101,7 @@
     "id": "B14613040",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613040&je_cd=1",
     "name": "Analytical Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7101,7 +7114,7 @@
     "id": "B14613050",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613050&je_cd=1",
     "name": "Inorganic Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7114,7 +7127,7 @@
     "id": "B14613060",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613060&je_cd=1",
     "name": "Inorganic Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7127,7 +7140,7 @@
     "id": "B14613070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613070&je_cd=1",
     "name": "Organic Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7140,7 +7153,7 @@
     "id": "B14613080",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613080&je_cd=1",
     "name": "Organic Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7153,7 +7166,7 @@
     "id": "B14613090",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613090&je_cd=1",
     "name": "Life Science 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7162,11 +7175,24 @@
     "staff": "EKI Toshihiko",
     "room": "A1-301"
   },
+  "B14613100": {
+    "id": "B14613100",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613100&je_cd=1",
+    "name": "Life Science 2",
+    "area": "Applied Chemistry and Life Science‚Ö°",
+    "term": "Spring2 term",
+    "faculty": "Undergraduate Program",
+    "required": "Required",
+    "units": "1",
+    "grade": "B3",
+    "staff": "HIROSE Yu",
+    "room": "A1-301"
+  },
   "B14613110": {
     "id": "B14613110",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613110&je_cd=1",
     "name": "Chemical Engineering 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7179,7 +7205,7 @@
     "id": "B14613120",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613120&je_cd=1",
     "name": "Chemical Engineering 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7192,7 +7218,7 @@
     "id": "B14613130",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613130&je_cd=1",
     "name": "Mathematics for Chemistry and Life Science 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7205,7 +7231,7 @@
     "id": "B14613140",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613140&je_cd=1",
     "name": "Mathematics for Chemistry and Life Science 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7218,20 +7244,20 @@
     "id": "B14613160",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613160&je_cd=1",
     "name": "Laboratory Works in Chemistry and Life Science",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Year",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "4",
     "grade": "B3",
     "staff": "HIROSE Yu, 4kei kakukyouin",
-    "room": "B1-104_âªäwé¿å±é∫"
+    "room": "B1-104_ÂåñÂ≠¶ÂÆüÈ®ìÂÆ§"
   },
   "B14613170": {
     "id": "B14613170",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613170&je_cd=1",
     "name": "Seminar in Chemistry and Life Science",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2+Fall1",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7244,7 +7270,7 @@
     "id": "B14613180",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613180&je_cd=1",
     "name": "Supervised Research",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring+Fall1",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7257,7 +7283,7 @@
     "id": "B14613190",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613190&je_cd=1",
     "name": "Internship",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7270,7 +7296,7 @@
     "id": "B14613200",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613200&je_cd=1",
     "name": "Supervised Research 1A",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Year",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7283,7 +7309,7 @@
     "id": "B14613210",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613210&je_cd=1",
     "name": "Supervised Research 1B",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Year",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7296,7 +7322,7 @@
     "id": "B14613230",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613230&je_cd=1",
     "name": "Supervised Research 2B",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Year",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7309,7 +7335,7 @@
     "id": "B14613240",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613240&je_cd=1",
     "name": "Seminar for Advanced Interdisciplinary Technology 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Year",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7322,7 +7348,7 @@
     "id": "B14613250",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613250&je_cd=1",
     "name": "Seminar for Advanced Interdisciplinary Technology 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Year",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7335,7 +7361,7 @@
     "id": "B14613260",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14613260&je_cd=1",
     "name": "Internship A",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Year",
     "faculty": "Undergraduate Program",
     "required": "Required",
@@ -7348,163 +7374,176 @@
     "id": "B14623010",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623010&je_cd=1",
     "name": "Physical Chemistry 3",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
     "staff": "MATSUMOTO Akihiko",
-    "room": null
+    "room": "A1-301"
   },
   "B14623020": {
     "id": "B14623020",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623020&je_cd=1",
     "name": "Analytical Chemistry 3",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
     "staff": "SAITO Yoshihiro",
-    "room": null
+    "room": "A-312"
   },
   "B14623030": {
     "id": "B14623030",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623030&je_cd=1",
     "name": "Inorganic Chemistry 3",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
     "staff": "MIZUSHIMA Takanori",
-    "room": null
+    "room": "A-114"
   },
   "B14623040": {
     "id": "B14623040",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623040&je_cd=1",
     "name": "Organic Chemistry 3",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
     "staff": "HARAGUCHI Naoki",
-    "room": null
+    "room": "A1-301"
   },
   "B14623050": {
     "id": "B14623050",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623050&je_cd=1",
     "name": "Chemical Nomenclature",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "HARAGUCHI Naoki",
-    "room": null
+    "room": "A1-201"
   },
   "B14623070": {
     "id": "B14623070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623070&je_cd=1",
     "name": "Life Science 3",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
     "staff": "KURITA Hirofumi",
-    "room": null
+    "room": "A-105"
   },
   "B14623080": {
     "id": "B14623080",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623080&je_cd=1",
     "name": "Life Science 4",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
     "staff": "TANAKA Terumichi",
-    "room": null
+    "room": "A-105"
   },
   "B14623090": {
     "id": "B14623090",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623090&je_cd=1",
     "name": "Advanced Life Science 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
     "staff": "TANAKA Terumichi",
-    "room": null
+    "room": "A1-301"
+  },
+  "B14623100": {
+    "id": "B14623100",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14623100&je_cd=1",
+    "name": "Advanced Life Science 2",
+    "area": "Applied Chemistry and Life Science‚Ö°",
+    "term": "Fall2 term",
+    "faculty": "Undergraduate Program",
+    "required": "Required",
+    "units": "1",
+    "grade": "B3",
+    "staff": "HIROSE Yu",
+    "room": "A1-301"
   },
   "B14633010": {
     "id": "B14633010",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633010&je_cd=1",
     "name": "Physical Chemistry 4",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "TERO Ryugo",
-    "room": null
+    "room": "A1-301"
   },
   "B14633020": {
     "id": "B14633020",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633020&je_cd=1",
     "name": "Analytical Chemistry 4",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "SAITO Yoshihiro",
-    "room": null
+    "room": "A-312"
   },
   "B14633030": {
     "id": "B14633030",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633030&je_cd=1",
     "name": "Inorganic Chemistry 4",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "MIZUSHIMA Takanori",
-    "room": null
+    "room": "A-114"
   },
   "B14633040": {
     "id": "B14633040",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633040&je_cd=1",
     "name": "Organic Chemistry 4",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "ARAKAWA Yuki",
-    "room": null
+    "room": "A1-301"
   },
   "B14633050": {
     "id": "B14633050",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633050&je_cd=1",
     "name": "Organic Chemistry 5",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7517,7 +7556,7 @@
     "id": "B14633060",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633060&je_cd=1",
     "name": "Organic Chemistry 6",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7530,46 +7569,46 @@
     "id": "B14633070",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633070&je_cd=1",
     "name": "Chemical Engineering 3",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "OGUCHI Tatsuo",
-    "room": null
+    "room": "A1-301"
   },
   "B14633080": {
     "id": "B14633080",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633080&je_cd=1",
     "name": "Chemical Engineering 4",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "OGUCHI Tatsuo",
-    "room": null
+    "room": "A1-301"
   },
   "B14633130": {
     "id": "B14633130",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633130&je_cd=1",
     "name": "Data Science Exercise",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "HARADA Koji",
-    "room": null
+    "room": "A1-301"
   },
   "B14633140": {
     "id": "B14633140",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633140&je_cd=1",
     "name": "Advanced Data Science Exercise",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7582,7 +7621,7 @@
     "id": "B14633150",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633150&je_cd=1",
     "name": "Internship B",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Year",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7595,7 +7634,7 @@
     "id": "B14633160",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633160&je_cd=1",
     "name": "Physical Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7608,7 +7647,7 @@
     "id": "B14633170",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633170&je_cd=1",
     "name": "Physical Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7621,7 +7660,7 @@
     "id": "B14633180",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633180&je_cd=1",
     "name": "Analytical Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7634,7 +7673,7 @@
     "id": "B14633190",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633190&je_cd=1",
     "name": "Analytical Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7647,7 +7686,7 @@
     "id": "B14633200",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633200&je_cd=1",
     "name": "Inorganic Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7660,7 +7699,7 @@
     "id": "B14633210",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633210&je_cd=1",
     "name": "Inorganic Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7673,7 +7712,7 @@
     "id": "B14633220",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633220&je_cd=1",
     "name": "Organic Chemistry 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7686,7 +7725,7 @@
     "id": "B14633230",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633230&je_cd=1",
     "name": "Organic Chemistry 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7699,7 +7738,7 @@
     "id": "B14633240",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633240&je_cd=1",
     "name": "Life Science 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7708,11 +7747,24 @@
     "staff": "EKI Toshihiko",
     "room": "A1-301"
   },
+  "B14633250": {
+    "id": "B14633250",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633250&je_cd=1",
+    "name": "Life Science 2",
+    "area": "Applied Chemistry and Life Science‚Ö°",
+    "term": "Spring2 term",
+    "faculty": "Undergraduate Program",
+    "required": "Elective",
+    "units": "1",
+    "grade": "B3",
+    "staff": "HIROSE Yu",
+    "room": "A1-301"
+  },
   "B14633260": {
     "id": "B14633260",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633260&je_cd=1",
     "name": "Chemical Engineering 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7725,7 +7777,7 @@
     "id": "B14633270",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633270&je_cd=1",
     "name": "Chemical Engineering 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7738,7 +7790,7 @@
     "id": "B14633280",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633280&je_cd=1",
     "name": "Mathematics for Chemistry and Life Science 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7751,7 +7803,7 @@
     "id": "B14633290",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633290&je_cd=1",
     "name": "Mathematics for Chemistry and Life Science 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7760,11 +7812,24 @@
     "staff": "TAKASHIMA Kazunori",
     "room": "A1-301"
   },
+  "B14633320": {
+    "id": "B14633320",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633320&je_cd=1",
+    "name": "Advanced Life Science 3",
+    "area": "Applied Chemistry and Life Science‚Ö°",
+    "term": "Spring1 term",
+    "faculty": "Undergraduate Program",
+    "required": "Elective",
+    "units": "1",
+    "grade": "B4",
+    "staff": "HIROSE Yu",
+    "room": "A-202"
+  },
   "B14633330": {
     "id": "B14633330",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633330&je_cd=1",
     "name": "Advanced Life Science 4",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7777,7 +7842,7 @@
     "id": "B14633340",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633340&je_cd=1",
     "name": "Advanced Mathematics for Chemistry and Life Science 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring1 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7790,7 +7855,7 @@
     "id": "B14633350",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B14633350&je_cd=1",
     "name": "Advanced Mathematics for Chemistry and Life Science 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring2 term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -7810,7 +7875,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "INOUE Takanobu, FUJITA Daisuke, SAITOH Taiki",
-    "room": null
+    "room": "A-202"
   },
   "B15510050": {
     "id": "B15510050",
@@ -7835,8 +7900,8 @@
     "required": "Required",
     "units": "2",
     "grade": "B1",
-    "staff": "PARK Minjeong, To be assigned",
-    "room": null
+    "staff": "PARK Minjeong, KAMEYA Emiko",
+    "room": "D1-501"
   },
   "B15510140": {
     "id": "B15510140",
@@ -7875,7 +7940,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "MATSUO Kojiro, NAITO Naoto, SAI Meiki",
-    "room": null
+    "room": "A-309"
   },
   "B15510170": {
     "id": "B15510170",
@@ -7888,7 +7953,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "TAKIUCHI Yuji, MATSUI Tomoya",
-    "room": null
+    "room": "A-209"
   },
   "B15510180": {
     "id": "B15510180",
@@ -7901,7 +7966,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "SAITOH Taiki, NAKAZAWA Shoji",
-    "room": null
+    "room": "A-309"
   },
   "B15510190": {
     "id": "B15510190",
@@ -7927,7 +7992,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "MATSUDA Tatsuya",
-    "room": null
+    "room": "A-201"
   },
   "B15510210": {
     "id": "B15510210",
@@ -7940,7 +8005,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "KATO Shigeru",
-    "room": null
+    "room": "A-301"
   },
   "B15510230": {
     "id": "B15510230",
@@ -7953,7 +8018,7 @@
     "units": "2",
     "grade": "B1",
     "staff": "TAJIMA Masaki",
-    "room": null
+    "room": "A-207"
   },
   "B15510240": {
     "id": "B15510240",
@@ -7966,7 +8031,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "MATSUDA Tatsuya, SHIMAZAKI Yasuhiro, MATSUI Tomoya, NAITO Naoto, KATO Shigeru, YOKOTA Kuriko, INOUE Takanobu, TAJIMA Masaki, NAKADA Shotaro, TOYODA Masaya, NGUYEN MINH NGOC",
-    "room": null
+    "room": "A-208"
   },
   "B15510250": {
     "id": "B15510250",
@@ -7992,7 +8057,7 @@
     "units": "2",
     "grade": "B2",
     "staff": "FUJITA Daisuke, YANAGIHARA Shigeru, ITO Keisuke",
-    "room": null
+    "room": "D1-503"
   },
   "B15530050": {
     "id": "B15530050",
@@ -8004,8 +8069,8 @@
     "required": "Elective",
     "units": "2",
     "grade": "B2",
-    "staff": "FUJITA Daisuke, To be assigned",
-    "room": null
+    "staff": "FUJITA Daisuke, KAMEYA Emiko",
+    "room": "A-202"
   },
   "B15530060": {
     "id": "B15530060",
@@ -8018,7 +8083,7 @@
     "units": "1",
     "grade": "B2",
     "staff": "FUJITA Daisuke, To be assigned",
-    "room": null
+    "room": "D1-505"
   },
   "B15530070": {
     "id": "B15530070",
@@ -8031,7 +8096,7 @@
     "units": "1",
     "grade": "B1",
     "staff": "KAWABATA Akio",
-    "room": null
+    "room": "„É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "B15610040": {
     "id": "B15610040",
@@ -8044,7 +8109,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAZAWA Shoji",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B15610050": {
     "id": "B15610050",
@@ -8057,7 +8122,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "SAITOH Taiki, MATSUI Tomoya",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B15610060": {
     "id": "B15610060",
@@ -8135,7 +8200,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "SAITOH Taiki",
-    "room": null
+    "room": "A-114"
   },
   "B15610130": {
     "id": "B15610130",
@@ -8252,12 +8317,12 @@
     "units": "2",
     "grade": "B3",
     "staff": "SUGIKI Nao",
-    "room": null
+    "room": "A1-201"
   },
   "B15620100": {
     "id": "B15620100",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=B15620100&je_cd=1",
-    "name": "Social Capital ManagementÅ@",
+    "name": "Social Capital Management„ÄÄ",
     "area": "Architecture and Civil Engineering II",
     "term": "Spring term",
     "faculty": "Undergraduate Program",
@@ -8291,7 +8356,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAZAWA Shoji, TAKIUCHI Yuji",
-    "room": null
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§"
   },
   "B15620130": {
     "id": "B15620130",
@@ -8304,7 +8369,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MATSUI Tomoya, TAKIUCHI Yuji",
-    "room": null
+    "room": "A2-201"
   },
   "B15620140": {
     "id": "B15620140",
@@ -8317,7 +8382,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "MATSUI Tomoya, TAKIUCHI Yuji",
-    "room": null
+    "room": "A1-301"
   },
   "B15620160": {
     "id": "B15620160",
@@ -8343,7 +8408,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "KATO Shigeru, OOTA Kazuya",
-    "room": null
+    "room": "A-105"
   },
   "B15620180": {
     "id": "B15620180",
@@ -8369,7 +8434,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SUGIKI Nao, SHIBUSAWA Hiroyuki",
-    "room": null
+    "room": "A1-301"
   },
   "B15620200": {
     "id": "B15620200",
@@ -8395,7 +8460,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TOKAIRIN Takayuki",
-    "room": null
+    "room": "A-207"
   },
   "B15621020": {
     "id": "B15621020",
@@ -8421,7 +8486,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "TAJIMA Masaki, SHIMAZAKI Yasuhiro",
-    "room": null
+    "room": "A-312"
   },
   "B15621040": {
     "id": "B15621040",
@@ -8434,7 +8499,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "FUJITA Daisuke",
-    "room": null
+    "room": "A-105"
   },
   "B15621050": {
     "id": "B15621050",
@@ -8446,7 +8511,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "FUJITA Daisuke, To be assigned",
+    "staff": "FUJITA Daisuke, KAMEYA Emiko",
     "room": "A1-301"
   },
   "B15621060": {
@@ -8460,7 +8525,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "YANAGISAWA Hiroe",
-    "room": null
+    "room": "A1-301"
   },
   "B15621070": {
     "id": "B15621070",
@@ -8473,7 +8538,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "ASANO Junichiro, TSUBOI Shiro",
-    "room": null
+    "room": "A-105"
   },
   "B15621080": {
     "id": "B15621080",
@@ -8485,7 +8550,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B3",
-    "staff": "FUJITA Daisuke, To be assigned, PARK Minjeong",
+    "staff": "FUJITA Daisuke, KAMEYA Emiko, PARK Minjeong",
     "room": "D1-502"
   },
   "B15621100": {
@@ -8499,7 +8564,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "SHIMAZAKI Yasuhiro",
-    "room": null
+    "room": "A-105"
   },
   "B15621110": {
     "id": "B15621110",
@@ -8551,7 +8616,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "ASANO Junichiro, ONO Haruka, TSUBOI Shiro",
-    "room": null
+    "room": "D1-502"
   },
   "B15621160": {
     "id": "B15621160",
@@ -8563,7 +8628,7 @@
     "required": "Required",
     "units": "2",
     "grade": "B4",
-    "staff": "FUJITA Daisuke, To be assigned, ASANO Junichiro, ONO Haruka, PARK Minjeong, TSUBOI Shiro",
+    "staff": "FUJITA Daisuke, KAMEYA Emiko, ASANO Junichiro, ONO Haruka, PARK Minjeong, TSUBOI Shiro",
     "room": null
   },
   "B15622010": {
@@ -8577,7 +8642,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "TOKAIRIN Takayuki, KATO Shigeru, MATSUDA Tatsuya",
-    "room": null
+    "room": "A-208"
   },
   "B15622020": {
     "id": "B15622020",
@@ -8590,7 +8655,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "MATSUO Kojiro, NAITO Naoto",
-    "room": null
+    "room": "A-207"
   },
   "B15622030": {
     "id": "B15622030",
@@ -8629,7 +8694,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "TOKAIRIN Takayuki, YOKOTA Kuriko",
-    "room": null
+    "room": "A-301"
   },
   "B15622150": {
     "id": "B15622150",
@@ -8642,7 +8707,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "MATSUO Kojiro",
-    "room": null
+    "room": "A-207"
   },
   "B15622160": {
     "id": "B15622160",
@@ -8655,7 +8720,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "MATSUDA Tatsuya, NAITO Naoto",
-    "room": null
+    "room": "A-106"
   },
   "B15622170": {
     "id": "B15622170",
@@ -8694,7 +8759,7 @@
     "units": "0.5",
     "grade": "B4",
     "staff": "SUGIKI Nao, MATSUDA Tatsuya, OBA Yoshitaka",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§"
   },
   "B15630100": {
     "id": "B15630100",
@@ -8707,7 +8772,7 @@
     "units": "1",
     "grade": "B3",
     "staff": "HARADA Koji",
-    "room": null
+    "room": "A1-301"
   },
   "B15630110": {
     "id": "B15630110",
@@ -8759,7 +8824,7 @@
     "units": "2",
     "grade": "B3",
     "staff": "NAKAZAWA Shoji",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B15630150": {
     "id": "B15630150",
@@ -8772,7 +8837,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "SAITOH Taiki, MATSUI Tomoya",
-    "room": "B1-201_çuã`é∫"
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "B15630160": {
     "id": "B15630160",
@@ -8811,7 +8876,7 @@
     "units": "1.5",
     "grade": "B3",
     "staff": "SAITOH Taiki",
-    "room": null
+    "room": "A-114"
   },
   "S11630010": {
     "id": "S11630010",
@@ -8824,7 +8889,7 @@
     "units": "1",
     "grade": "B4",
     "staff": "OTOTAKE Yoshihiko, OHASHI Takashi, KURATA Kazuo",
-    "room": null
+    "room": "A-114"
   },
   "S12620400": {
     "id": "S12620400",
@@ -8843,59 +8908,59 @@
     "id": "S14613150",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=S14613150&je_cd=1",
     "name": "Safety Science for Chemistry and Life Science",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
     "staff": "EKI Toshihiko, OGUCHI Tatsuo, HARAGUCHI Naoki",
-    "room": null
+    "room": "A1-201"
   },
   "S14613270": {
     "id": "S14613270",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=S14613270&je_cd=1",
     "name": "Ethics in Chemistry and Life Science",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
-    "staff": "YOSHIDA Sachiko, EKI Toshihiko, To be assigned",
-    "room": null
+    "staff": "YOSHIDA Sachiko, EKI Toshihiko, IIJIMA Yoshihiko",
+    "room": "A1-201"
   },
   "S14623060": {
     "id": "S14623060",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=S14623060&je_cd=1",
     "name": "Topics in Applied Chemistry",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
-    "staff": "4kei kyomu Iin-S, To be assigned",
-    "room": null
+    "staff": "4kei kyomu Iin-S, ARIGA Katsuhiko",
+    "room": "A2-301"
   },
   "S14623120": {
     "id": "S14623120",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=S14623120&je_cd=1",
     "name": "Topics in Life Science",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall term",
     "faculty": "Undergraduate Program",
     "required": "Required",
     "units": "1",
     "grade": "B3",
-    "staff": "4kei kyomu Iin-S, To be assigned",
-    "room": null
+    "staff": "4kei kyomu Iin-S, KIMURA Keiji, HOSHINO Shinichi",
+    "room": "A1-101"
   },
   "S14633110": {
     "id": "S14633110",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=S14633110&je_cd=1",
     "name": "Topics in Field Related to Chemistry and Biology 1",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -8908,7 +8973,7 @@
     "id": "S14633120",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=S14633120&je_cd=1",
     "name": "Topics in Field Related to Chemistry and Biology 2",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Fall term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
@@ -8921,14 +8986,14 @@
     "id": "S14633300",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=S14633300&je_cd=1",
     "name": "Safety Science for Chemistry and Life Science",
-    "area": "Applied Chemistry and Life ScienceáU",
+    "area": "Applied Chemistry and Life Science‚Ö°",
     "term": "Spring term",
     "faculty": "Undergraduate Program",
     "required": "Elective",
     "units": "1",
     "grade": "B3",
     "staff": "EKI Toshihiko, OGUCHI Tatsuo, HARAGUCHI Naoki",
-    "room": null
+    "room": "A1-201"
   },
   "S15610120": {
     "id": "S15610120",
@@ -8940,7 +9005,7 @@
     "required": "Required",
     "units": "0.5",
     "grade": "B4",
-    "staff": "MATSUDA Tatsuya, NAKAZAWA Shoji, MATSUI Tomoya, KATO Shigeru, YOKOTA Kuriko, SHIMAZAKI Yasuhiro, SHIBUSAWA Hiroyuki, ONO Haruka, MATSUO Kojiro",
+    "staff": "MATSUDA Tatsuya, NAKAZAWA Shoji, MATSUI Tomoya, KATO Shigeru, YOKOTA Kuriko, SHIMAZAKI Yasuhiro, SHIBUSAWA Hiroyuki, ONO Haruka, MATSUO Kojiro, TAKIUCHI Yuji",
     "room": "A2-301"
   },
   "S15621130": {
@@ -8966,7 +9031,7 @@
     "required": "Elective",
     "units": "0.5",
     "grade": "B4",
-    "staff": "MATSUDA Tatsuya, NAKAZAWA Shoji, MATSUI Tomoya, KATO Shigeru, YOKOTA Kuriko, SHIMAZAKI Yasuhiro, SHIBUSAWA Hiroyuki, ONO Haruka, MATSUO Kojiro",
+    "staff": "MATSUDA Tatsuya, NAKAZAWA Shoji, MATSUI Tomoya, KATO Shigeru, YOKOTA Kuriko, SHIMAZAKI Yasuhiro, SHIBUSAWA Hiroyuki, ONO Haruka, MATSUO Kojiro, TAKIUCHI Yuji",
     "room": "A2-301"
   }
 }

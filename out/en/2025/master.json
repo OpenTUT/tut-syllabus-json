@@ -192,7 +192,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TAKIKAWA Hirofumi, DAIMON Hiroyuki, TAKAYAMA Kotaro, ICHITSUBO Makoto, YOKOTA Kuriko, YAMAUCHI Takahiro, TOKAIRIN Takayuki, SUMINO Haruhiko",
-    "room": "A2-101"
+    "room": "A-101"
   },
   "M2012004b": {
     "id": "M2012004b",
@@ -205,7 +205,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TAKIKAWA Hirofumi, DAIMON Hiroyuki, TAKAYAMA Kotaro, ICHITSUBO Makoto, YOKOTA Kuriko, YAMAUCHI Takahiro, TOKAIRIN Takayuki, SUMINO Haruhiko",
-    "room": "A2-101"
+    "room": "A-101"
   },
   "M2012004c": {
     "id": "M2012004c",
@@ -218,7 +218,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TAKIKAWA Hirofumi, DAIMON Hiroyuki, TAKAYAMA Kotaro, ICHITSUBO Makoto, YOKOTA Kuriko, YAMAUCHI Takahiro, TOKAIRIN Takayuki, SUMINO Haruhiko",
-    "room": "A2-101"
+    "room": "A-101"
   },
   "M2012004d": {
     "id": "M2012004d",
@@ -244,7 +244,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAKIUCHI Yohei",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫, ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "M2012005b": {
     "id": "M2012005b",
@@ -257,7 +257,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAKIUCHI Yohei",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫, ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "M2012005c": {
     "id": "M2012005c",
@@ -270,7 +270,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAKIUCHI Yohei",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫, ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "M2012005d": {
     "id": "M2012005d",
@@ -283,7 +283,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAKIUCHI Yohei",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫, ÉÅäÓÉZ-É}ÉãÉ`ÉÅÉfÉBÉAã≥é∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§, „É°Âü∫„Çª-„Éû„É´„ÉÅ„É°„Éá„Ç£„Ç¢ÊïôÂÆ§"
   },
   "M2012006a": {
     "id": "M2012006a",
@@ -295,7 +295,7 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "YOSHIDA Sachiko, MATSUO Kojiro",
+    "staff": "YOSHIDA Sachiko, MATSUO Kojiro, OGURA Yuki, TANAKA Yujiro",
     "room": "A2-201"
   },
   "M2012006b": {
@@ -321,7 +321,7 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "YOSHIDA Sachiko, MATSUO Kojiro",
+    "staff": "YOSHIDA Sachiko, MATSUO Kojiro, OGURA Yuki, TANAKA Yujiro",
     "room": "A2-201"
   },
   "M2012006d": {
@@ -400,7 +400,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "MIYAMOTO Hiroyuki",
-    "room": null
+    "room": "A-101"
   },
   "M20230100": {
     "id": "M20230100",
@@ -478,7 +478,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "KURODA Koji",
-    "room": null
+    "room": "A2-301"
   },
   "M20230260": {
     "id": "M20230260",
@@ -491,7 +491,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "FUJII Toru",
-    "room": null
+    "room": "A1-201"
   },
   "M20230300": {
     "id": "M20230300",
@@ -530,7 +530,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "YAMASHITA Ryoichi",
-    "room": null
+    "room": "A-208"
   },
   "M20230330": {
     "id": "M20230330",
@@ -543,7 +543,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "YAMASHITA Ryoichi",
-    "room": null
+    "room": "A-208"
   },
   "M20230380": {
     "id": "M20230380",
@@ -558,6 +558,19 @@
     "staff": "TSUJIMURA Taiki",
     "room": "A2-201"
   },
+  "M20230390": {
+    "id": "M20230390",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=M20230390&je_cd=1",
+    "name": "Advanced Sociology 1",
+    "area": "Social Sciences",
+    "term": "Spring term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "2",
+    "grade": "M1",
+    "staff": "YAMANE Mari",
+    "room": "A1-201"
+  },
   "M20230400": {
     "id": "M20230400",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=M20230400&je_cd=1",
@@ -569,7 +582,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "TSUJIMURA Taiki",
-    "room": null
+    "room": "A1-101"
   },
   "M20230410": {
     "id": "M20230410",
@@ -582,7 +595,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "HATAYAMA Yosuke",
-    "room": null
+    "room": "A1-101"
   },
   "M20230420": {
     "id": "M20230420",
@@ -608,7 +621,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "MIYAMOTO Hiroyuki",
-    "room": null
+    "room": "B1-201_Ë¨õÁæ©ÂÆ§"
   },
   "M20230450": {
     "id": "M20230450",
@@ -634,7 +647,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "FUJII Toru",
-    "room": null
+    "room": "A-101"
   },
   "M20230470": {
     "id": "M20230470",
@@ -647,7 +660,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "NOGUCHI Yutaro",
-    "room": null
+    "room": "A1-101"
   },
   "M20330100": {
     "id": "M20330100",
@@ -725,7 +738,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "To be assigned",
-    "room": null
+    "room": "A-108"
   },
   "M20330330": {
     "id": "M20330330",
@@ -751,7 +764,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "IZUMI Tsukasa",
-    "room": null
+    "room": "A-105"
   },
   "M20330360": {
     "id": "M20330360",
@@ -855,7 +868,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "IIO Keishi",
-    "room": null
+    "room": "A1-201"
   },
   "M20330470": {
     "id": "M20330470",
@@ -868,7 +881,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "TSUKUDA Ryuichiro",
-    "room": null
+    "room": "A-108"
   },
   "M20330481": {
     "id": "M20330481",
@@ -894,7 +907,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "SHAKOUCHI Yuri",
-    "room": null
+    "room": "A-105"
   },
   "M20330501": {
     "id": "M20330501",
@@ -920,7 +933,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "RYO Shiei",
-    "room": null
+    "room": "A-106"
   },
   "M20330530": {
     "id": "M20330530",
@@ -933,7 +946,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "MURAMATSU Yukiko",
-    "room": null
+    "room": "A-205"
   },
   "M20330540": {
     "id": "M20330540",
@@ -946,7 +959,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "KOJIMA Toshio",
-    "room": null
+    "room": "A2-201"
   },
   "M2033055a": {
     "id": "M2033055a",
@@ -985,7 +998,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "NAKAMURA Daisuke",
-    "room": null
+    "room": "A-312"
   },
   "M20330570": {
     "id": "M20330570",
@@ -998,7 +1011,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "NAKAMURA Daisuke",
-    "room": null
+    "room": "A-312"
   },
   "M20330580": {
     "id": "M20330580",
@@ -1011,7 +1024,7 @@
     "units": "2",
     "grade": "M1, M2",
     "staff": "RYAN Eugene",
-    "room": null
+    "room": "A-207"
   },
   "M20330590": {
     "id": "M20330590",
@@ -1050,7 +1063,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "SAI Banri",
-    "room": null
+    "room": "A2-301"
   },
   "M20330650": {
     "id": "M20330650",
@@ -1063,7 +1076,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "SAI Banri",
-    "room": null
+    "room": "A2-101"
   },
   "M20330660": {
     "id": "M20330660",
@@ -1089,7 +1102,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "IWAUCHI Shotaro",
-    "room": null
+    "room": "A-311"
   },
   "M21610020": {
     "id": "M21610020",
@@ -1154,7 +1167,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAWAMURA Shozo",
-    "room": null
+    "room": "A2-201"
   },
   "M21620070": {
     "id": "M21620070",
@@ -1167,7 +1180,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TAKAYAMA Kotaro",
-    "room": null
+    "room": "A1-201"
   },
   "M21620080": {
     "id": "M21620080",
@@ -1180,7 +1193,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TAKAHASHI Junji",
-    "room": null
+    "room": "A2-201"
   },
   "M21621080": {
     "id": "M21621080",
@@ -1193,7 +1206,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAWAMURA Shozo",
-    "room": null
+    "room": "A2-201"
   },
   "M21621100": {
     "id": "M21621100",
@@ -1206,7 +1219,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "ADACHI Tadaharu",
-    "room": null
+    "room": "A-207"
   },
   "M21621110": {
     "id": "M21621110",
@@ -1219,7 +1232,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TAKEICHI Yoshinori",
-    "room": null
+    "room": "A2-301"
   },
   "M21621130": {
     "id": "M21621130",
@@ -1271,7 +1284,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "YASUI Toshiaki",
-    "room": null
+    "room": "A1-301"
   },
   "M21622110": {
     "id": "M21622110",
@@ -1310,7 +1323,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TODAKA Yoshikazu",
-    "room": null
+    "room": "D-617"
   },
   "M21622140": {
     "id": "M21622140",
@@ -1323,7 +1336,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "ADACHI Nozomu",
-    "room": null
+    "room": "A-108"
   },
   "M21622150": {
     "id": "M21622150",
@@ -1349,7 +1362,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "SANO Shigenori",
-    "room": null
+    "room": "A1-301"
   },
   "M21623120": {
     "id": "M21623120",
@@ -1362,7 +1375,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TAKAGI Kentaro",
-    "room": null
+    "room": "A1-201"
   },
   "M21623140": {
     "id": "M21623140",
@@ -1427,7 +1440,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "NAKAMURA Yuji",
-    "room": null
+    "room": "D-412, D-413"
   },
   "M21624150": {
     "id": "M21624150",
@@ -1492,7 +1505,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "ISHIGURO Hitomi",
-    "room": null
+    "room": "A-201"
   },
   "M21630030": {
     "id": "M21630030",
@@ -1504,7 +1517,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1",
-    "staff": "1kei kyomu Iin-S",
+    "staff": "1kei kyomu Iin-S, FURUNO Shigeo, ARAKI Koji, HAYASHI Toshiyuki, NOGIWA Junichi, NAGAI Osamu, KONDO Ayako, SERIZAWA Kazuaki, MIKI Satoru",
     "room": "A1-101"
   },
   "M21630040": {
@@ -1517,7 +1530,7 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1",
-    "staff": "1kei kyomu Iin-S",
+    "staff": "1kei kyomu Iin-S, FURUNO Shigeo, SHIGA Daisuke, SUZUKI Tomotaka, TAKEDA Shuichi, MURAMATSU Junichi, SAKAI Tomokazu, SUMIYA Kengo, KOGA Kenichi, UEDA Masaya",
     "room": "A1-101"
   },
   "M21630050": {
@@ -1588,7 +1601,7 @@
   "M22610080": {
     "id": "M22610080",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=M22610080&je_cd=1",
-    "name": "Advanced Topics in Electrical, Electronic and Information Engineering 0A",
+    "name": "Advanced Topics in Electrical Electronic and Information Engineering 1A",
     "area": "Advanced Electrical and Electronic Information Engineering",
     "term": "Spring term",
     "faculty": "Graduate Program for Master's Degree",
@@ -1648,7 +1661,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAWABATA Akio",
-    "room": null
+    "room": "A1-301"
   },
   "M22620070": {
     "id": "M22620070",
@@ -1674,7 +1687,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "NAKAMURA Yuichi",
-    "room": null
+    "room": "A-106"
   },
   "M22621100": {
     "id": "M22621100",
@@ -1713,7 +1726,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KATOH Ryo",
-    "room": null
+    "room": "A2-201"
   },
   "M22621140": {
     "id": "M22621140",
@@ -1726,7 +1739,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "YATSUI Takashi",
-    "room": null
+    "room": "A-106"
   },
   "M22621150": {
     "id": "M22621150",
@@ -1739,7 +1752,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KATSUMI Ryota",
-    "room": null
+    "room": "A-311"
   },
   "M22622020": {
     "id": "M22622020",
@@ -1752,7 +1765,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "INADA Ryoji, TOJO Tomohiro",
-    "room": null
+    "room": "A-106"
   },
   "M22622030": {
     "id": "M22622030",
@@ -1778,7 +1791,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "TAKIKAWA Hirofumi, To be assigned",
-    "room": null
+    "room": "A-203"
   },
   "M22623030": {
     "id": "M22623030",
@@ -1791,7 +1804,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "ISHIKAWA Yasuhiko, SEKIGUCHI Hiroto",
-    "room": null
+    "room": "A-205"
   },
   "M22623050": {
     "id": "M22623050",
@@ -1804,7 +1817,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "SAWADA Kazuaki, KAWANO Takeshi, SUDO Minoru",
-    "room": null
+    "room": "A2-201"
   },
   "M22623060": {
     "id": "M22623060",
@@ -1882,7 +1895,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "TAKEUCHI Keigo",
-    "room": null
+    "room": "A-106"
   },
   "M22624100": {
     "id": "M22624100",
@@ -1921,7 +1934,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "ICHIKAWA Shuichi",
-    "room": null
+    "room": "A-301"
   },
   "M22624130": {
     "id": "M22624130",
@@ -1934,7 +1947,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "SHAO Xun",
-    "room": null
+    "room": "A-301"
   },
   "M22630030": {
     "id": "M22630030",
@@ -2012,7 +2025,7 @@
     "units": "1",
     "grade": "M2",
     "staff": "AKIBA Tomoyoshi",
-    "room": null
+    "room": "A-108"
   },
   "M23610070": {
     "id": "M23610070",
@@ -2025,7 +2038,7 @@
     "units": "1",
     "grade": "M2",
     "staff": "MICHELE Dall'Arno",
-    "room": null
+    "room": "A-108"
   },
   "M23610080": {
     "id": "M23610080",
@@ -2077,7 +2090,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "OMURA Ren, To be assigned",
-    "room": null
+    "room": "A2-101"
   },
   "M23620070": {
     "id": "M23620070",
@@ -2116,7 +2129,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "NAKAUCHI Shigeki",
-    "room": null
+    "room": "A2-101"
   },
   "M23620100": {
     "id": "M23620100",
@@ -2129,7 +2142,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "MURAKOSHI Kazushi",
-    "room": null
+    "room": "F1-103"
   },
   "M23620110": {
     "id": "M23620110",
@@ -2168,7 +2181,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "MIURA Jun",
-    "room": null
+    "room": "A-105"
   },
   "M23620140": {
     "id": "M23620140",
@@ -2207,7 +2220,7 @@
     "units": "1",
     "grade": "M2",
     "staff": "KANAZAWA Yasushi",
-    "room": null
+    "room": "A-203"
   },
   "M23620180": {
     "id": "M23620180",
@@ -2220,7 +2233,7 @@
     "units": "1",
     "grade": "M2",
     "staff": "SUGAYA Yasuyuki",
-    "room": null
+    "room": "A-203"
   },
   "M23620190": {
     "id": "M23620190",
@@ -2233,7 +2246,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "KAWABATA Akio",
-    "room": null
+    "room": "A1-301"
   },
   "M23621100": {
     "id": "M23621100",
@@ -2272,7 +2285,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "AKIBA Tomoyoshi",
-    "room": null
+    "room": "A-108"
   },
   "M23630220": {
     "id": "M23630220",
@@ -2311,7 +2324,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "TAKEUCHI Keigo",
-    "room": null
+    "room": "A-106"
   },
   "M23630340": {
     "id": "M23630340",
@@ -2350,7 +2363,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "KITAZAKI Michiteru",
-    "room": null
+    "room": "A1-301"
   },
   "M23630370": {
     "id": "M23630370",
@@ -2363,7 +2376,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "KOIDA Kowa",
-    "room": null
+    "room": "A2-101"
   },
   "M23630380": {
     "id": "M23630380",
@@ -2402,7 +2415,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "UEHARA Kazumasa",
-    "room": null
+    "room": "A1-301"
   },
   "M23630410": {
     "id": "M23630410",
@@ -2415,7 +2428,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "OMURA Ren",
-    "room": null
+    "room": "A-105"
   },
   "M23630440": {
     "id": "M23630440",
@@ -2428,7 +2441,7 @@
     "units": "1",
     "grade": "M1, M2",
     "staff": "MICHELE Dall'Arno",
-    "room": null
+    "room": "A-108"
   },
   "M24613010": {
     "id": "M24613010",
@@ -2571,7 +2584,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "NUMANO Rika",
-    "room": null
+    "room": "A-109"
   },
   "M24623090": {
     "id": "M24623090",
@@ -2584,7 +2597,7 @@
     "units": "1",
     "grade": "M1",
     "staff": "ARAKAWA Yuki",
-    "room": null
+    "room": "A-311"
   },
   "M24630340": {
     "id": "M24630340",
@@ -2677,6 +2690,19 @@
     "staff": "KURITA Hirofumi",
     "room": "A-311"
   },
+  "M24630550": {
+    "id": "M24630550",
+    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=M24630550&je_cd=1",
+    "name": "Advanced Photobiology",
+    "area": "Advanced Applied Chemistry and Life Science",
+    "term": "Spring1 term",
+    "faculty": "Graduate Program for Master's Degree",
+    "required": "Elective",
+    "units": "1",
+    "grade": "M1",
+    "staff": "HIROSE Yu",
+    "room": "A-105"
+  },
   "M24630560": {
     "id": "M24630560",
     "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=M24630560&je_cd=1",
@@ -2689,19 +2715,6 @@
     "grade": "M1",
     "staff": "MATSUMOTO Akihiko",
     "room": "A-108"
-  },
-  "M24630570": {
-    "id": "M24630570",
-    "url": "https://kyomu.office.tut.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2025&lct_cd=M24630570&je_cd=1",
-    "name": "Advanced Environmental Sensor Technology",
-    "area": "Advanced Applied Chemistry and Life Science",
-    "term": "Spring2 term",
-    "faculty": "Graduate Program for Master's Degree",
-    "required": "Elective",
-    "units": "1",
-    "grade": "M1",
-    "staff": "ARIYOSHI Seiichiro",
-    "room": "G-208"
   },
   "M24630580": {
     "id": "M24630580",
@@ -2791,7 +2804,7 @@
     "required": "Required",
     "units": "2",
     "grade": "M1",
-    "staff": "MATSUDA Tatsuya, NAKAZAWA Shoji, MATSUI Tomoya, KATO Shigeru, YOKOTA Kuriko, SHIMAZAKI Yasuhiro, SHIBUSAWA Hiroyuki, ONO Haruka, MATSUO Kojiro",
+    "staff": "MATSUDA Tatsuya, NAKAZAWA Shoji, MATSUI Tomoya, KATO Shigeru, YOKOTA Kuriko, SHIMAZAKI Yasuhiro, SHIBUSAWA Hiroyuki, ONO Haruka, MATSUO Kojiro, TAKIUCHI Yuji",
     "room": "A2-301"
   },
   "M25620010": {
@@ -2818,7 +2831,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "NAKAZAWA Shoji",
-    "room": "A-207"
+    "room": "A-208"
   },
   "M25620040": {
     "id": "M25620040",
@@ -2831,7 +2844,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "NAKAZAWA Shoji, TAKIUCHI Yuji",
-    "room": null
+    "room": "A-301"
   },
   "M25620090": {
     "id": "M25620090",
@@ -2844,7 +2857,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "SAITOH Taiki, MATSUI Tomoya",
-    "room": null
+    "room": "A-201"
   },
   "M25620100": {
     "id": "M25620100",
@@ -2857,7 +2870,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "MATSUO Kojiro",
-    "room": null
+    "room": "A-110"
   },
   "M25620110": {
     "id": "M25620110",
@@ -2882,7 +2895,7 @@
     "required": "Required",
     "units": "2",
     "grade": "M1",
-    "staff": "FUJITA Daisuke, To be assigned",
+    "staff": "FUJITA Daisuke, KAMEYA Emiko",
     "room": "D2-704"
   },
   "M25621050": {
@@ -2896,7 +2909,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "TAJIMA Masaki",
-    "room": null
+    "room": "A-201"
   },
   "M25621060": {
     "id": "M25621060",
@@ -2909,7 +2922,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "SHIMAZAKI Yasuhiro",
-    "room": null
+    "room": "A-201"
   },
   "M25621150": {
     "id": "M25621150",
@@ -2921,8 +2934,8 @@
     "required": "Required",
     "units": "2",
     "grade": "M1",
-    "staff": "FUJITA Daisuke, To be assigned",
-    "room": null
+    "staff": "FUJITA Daisuke",
+    "room": "D2-704"
   },
   "M25621160": {
     "id": "M25621160",
@@ -2935,7 +2948,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "ASANO Junichiro, ONO Haruka",
-    "room": null
+    "room": "A-203"
   },
   "M25621170": {
     "id": "M25621170",
@@ -2948,7 +2961,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "NAKAMORI Yasuyuki",
-    "room": null
+    "room": "A-312"
   },
   "M25622070": {
     "id": "M25622070",
@@ -2987,7 +3000,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "KATO Shigeru",
-    "room": null
+    "room": "A-111"
   },
   "M25622140": {
     "id": "M25622140",
@@ -3000,7 +3013,7 @@
     "units": "2",
     "grade": "M1",
     "staff": "SHIBUSAWA Hiroyuki, MIYAMOTO Hiroyuki",
-    "room": "ÉÅäÓÉZ-ëÊÇPí[ññé∫"
+    "room": "„É°Âü∫„Çª-Á¨¨ÔºëÁ´ØÊú´ÂÆ§"
   },
   "M25622150": {
     "id": "M25622150",
@@ -3597,8 +3610,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1, M2",
-    "staff": "3kei kyomu Iin-S",
-    "room": null
+    "staff": "3kei kyomu Iin-S, FURUYA Shinichi",
+    "room": "A1-301"
   },
   "S23630020": {
     "id": "S23630020",
@@ -3610,8 +3623,8 @@
     "required": "Elective",
     "units": "1",
     "grade": "M1, M2",
-    "staff": "3kei kyomu Iin-S",
-    "room": null
+    "staff": "3kei kyomu Iin-S, WAKAKUWA Eyuri",
+    "room": "A2-201"
   },
   "S24623010": {
     "id": "S24623010",
@@ -3623,8 +3636,8 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "4kei kyomu Iin-S",
-    "room": null
+    "staff": "4kei kyomu Iin-S, HONGO Yayoi, MIKI Takeshi, KANNO Nozomu",
+    "room": "A2-201"
   },
   "S24623040": {
     "id": "S24623040",
@@ -3636,7 +3649,7 @@
     "required": "Required",
     "units": "1",
     "grade": "M1",
-    "staff": "4kei kyomu Iin-S",
-    "room": null
+    "staff": "4kei kyomu Iin-S, MATSUMOTO Ken, OSHIGE Masahiko",
+    "room": "A1-201"
   }
 }

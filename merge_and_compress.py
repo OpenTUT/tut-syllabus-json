@@ -20,11 +20,13 @@ for language in Language:
     )
 
     for json_file in json_files:
-        with open(json_file, "r") as f:
+        with open(json_file, "r", encoding="utf-8") as f:
             all_syllabuses.update(json.load(f))
 
     # minifyしたJSONを保存
-    with open(f"./out/{language.value}/{year}/all.min.json", "w") as f:
+    with open(
+        f"./out/{language.value}/{year}/all.min.json", "w", encoding="utf-8"
+    ) as f:
         json.dump(
             all_syllabuses,
             f,

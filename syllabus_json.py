@@ -131,7 +131,11 @@ for language in Language:
     for faculty in Faculty:
         syllabuses = get_syllabuses_by_faculty(utils, language, year, faculty)
 
-        with open(f"./out/{language.value}/{year}/{faculty.value[0]}.json", "w") as f:
+        with open(
+            f"./out/{language.value}/{year}/{faculty.value[0]}.json",
+            "w",
+            encoding="utf-8",
+        ) as f:
             json.dump(
                 syllabuses,
                 f,

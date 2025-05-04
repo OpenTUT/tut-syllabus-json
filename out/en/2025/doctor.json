@@ -179,7 +179,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "1kei kyomu Iin-S, kyoumu iinkai fukuiintyou",
-    "room": null
+    "room": "A-114"
   },
   "D31020030": {
     "id": "D31020030",
@@ -218,7 +218,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "SHIBATA Takayuki, ABE Yohei, NAGAI Moeto",
-    "room": null
+    "room": "D-617"
   },
   "D31030030": {
     "id": "D31030030",
@@ -244,7 +244,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "MIURA Hiromi, TODAKA Yoshikazu, ADACHI Nozomu, OBA Yojiro",
-    "room": null
+    "room": "D-508"
   },
   "D31030070": {
     "id": "D31030070",
@@ -270,7 +270,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "IIDA Akiyoshi, SEKISHITA Nobumasa, YOKOYAMA Hiroshi",
-    "room": null
+    "room": "D-410"
   },
   "D31030100": {
     "id": "D31030100",
@@ -283,7 +283,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "UCHIYAMA Naoki, TAKAYAMA Kotaro, TAKAHASHI Junji",
-    "room": null
+    "room": "D-610"
   },
   "D31030110": {
     "id": "D31030110",
@@ -335,7 +335,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "2kei kyomu Iin-S, kyoumu iinkai fukuiintyou",
-    "room": null
+    "room": "A-114"
   },
   "D32020030": {
     "id": "D32020030",
@@ -374,7 +374,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "MATSUDA Atsunori, KATOH Ryo, KAWAMURA Go",
-    "room": null
+    "room": "C-205"
   },
   "D32030030": {
     "id": "D32030030",
@@ -400,7 +400,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "TOJO Tomohiro, KAWASHIMA Tomohiro, To be assigned",
-    "room": null
+    "room": "C-205"
   },
   "D32030050": {
     "id": "D32030050",
@@ -426,7 +426,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "KAWANO Takeshi, TAKAHASHI Kazuhiro, CHOI YONG JOON, YAMANE Keisuke",
-    "room": null
+    "room": "C-613"
   },
   "D32030070": {
     "id": "D32030070",
@@ -452,7 +452,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "UEHARA Hideyuki, TAMURA Masaya, SHAO Xun",
-    "room": null
+    "room": "C-404"
   },
   "D33010010": {
     "id": "D33010010",
@@ -491,7 +491,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "3kei kyomu Iin-S, kyoumu iinkai fukuiintyou",
-    "room": null
+    "room": "A-114"
   },
   "D33020030": {
     "id": "D33020030",
@@ -582,7 +582,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "KITAZAKI Michiteru",
-    "room": null
+    "room": "A1-301"
   },
   "D33030360": {
     "id": "D33030360",
@@ -595,7 +595,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "UEHARA Kazumasa",
-    "room": null
+    "room": "A1-301"
   },
   "D33030370": {
     "id": "D33030370",
@@ -608,7 +608,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "NAKAUCHI Shigeki",
-    "room": null
+    "room": "A2-101"
   },
   "D33030380": {
     "id": "D33030380",
@@ -621,7 +621,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "KOIDA Kowa",
-    "room": null
+    "room": "A2-101"
   },
   "D33030390": {
     "id": "D33030390",
@@ -634,7 +634,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "MIURA Jun",
-    "room": null
+    "room": "A-105"
   },
   "D33030400": {
     "id": "D33030400",
@@ -647,7 +647,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "OMURA Ren",
-    "room": null
+    "room": "A-105"
   },
   "D33030430": {
     "id": "D33030430",
@@ -725,7 +725,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "MURAKOSHI Kazushi",
-    "room": null
+    "room": "F1-103"
   },
   "D33030510": {
     "id": "D33030510",
@@ -751,7 +751,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "AKIBA Tomoyoshi",
-    "room": null
+    "room": "A-108"
   },
   "D33030530": {
     "id": "D33030530",
@@ -764,7 +764,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "MICHELE Dall'Arno",
-    "room": null
+    "room": "A-108"
   },
   "D33030540": {
     "id": "D33030540",
@@ -777,7 +777,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "KAWABATA Akio",
-    "room": null
+    "room": "A1-301"
   },
   "D34010030": {
     "id": "D34010030",
@@ -790,7 +790,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "4kei kyomu Iin-S, kyoumu iinkai fukuiintyou",
-    "room": null
+    "room": "A-114"
   },
   "D34010050": {
     "id": "D34010050",
@@ -855,7 +855,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "YOSHIDA Eri, HIROSE Yu, NUMANO Rika, YOSHIDA Sachiko",
-    "room": null
+    "room": "B-201（会議室）"
   },
   "D34030060": {
     "id": "D34030060",
@@ -881,7 +881,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "TERO Ryugo, SAITO Yoshihiro, ARAKAWA Yuki",
-    "room": null
+    "room": "B-402"
   },
   "D34030090": {
     "id": "D34030090",
@@ -907,7 +907,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "MATSUMOTO Akihiko, MIZUSHIMA Takanori, OGUCHI Tatsuo, TAKASHIMA Kazunori",
-    "room": null
+    "room": "B-505"
   },
   "D35010010": {
     "id": "D35010010",
@@ -946,7 +946,7 @@
     "units": "1",
     "grade": "D1",
     "staff": "5kei kyomu Iin-S, kyoumu iinkai fukuiintyou",
-    "room": null
+    "room": "A-114"
   },
   "D35020030": {
     "id": "D35020030",
@@ -985,7 +985,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "SAITOH Taiki, MATSUI Tomoya",
-    "room": null
+    "room": "D-815"
   },
   "D35030030": {
     "id": "D35030030",
@@ -1010,8 +1010,8 @@
     "required": "Elective",
     "units": "2",
     "grade": "D1",
-    "staff": "FUJITA Daisuke, To be assigned",
-    "room": null
+    "staff": "FUJITA Daisuke, KAMEYA Emiko",
+    "room": "D-707"
   },
   "D35030060": {
     "id": "D35030060",
@@ -1037,7 +1037,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "MATSUDA Tatsuya",
-    "room": null
+    "room": "D-806"
   },
   "D35030080": {
     "id": "D35030080",
@@ -1050,7 +1050,7 @@
     "units": "2",
     "grade": "D1",
     "staff": "INOUE Takanobu, KATO Shigeru",
-    "room": null
+    "room": "D-811"
   },
   "D35030090": {
     "id": "D35030090",
@@ -1231,7 +1231,7 @@
     "required": "Elective",
     "units": "2",
     "grade": "D1",
-    "staff": "DAIMON Hiroyuki, ARIYOSHI Seiichiro",
+    "staff": "DAIMON Hiroyuki",
     "room": "G-602"
   },
   "D54030040": {

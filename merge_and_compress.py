@@ -5,7 +5,7 @@ import sys
 
 from classes import Faculty, Language, SyllabusEncoder
 
-year = "2024"
+year = "2025"
 
 # 全シラバス取得
 for language in Language:
